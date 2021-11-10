@@ -1,5 +1,5 @@
 <p align="center">
-The home of the<br />
+<h1>The home of the</h1><br />
 <img src="https://i.imgur.com/4QiPW4W.png" alt="Red-Eyed Renegade" />
 </p>
 
