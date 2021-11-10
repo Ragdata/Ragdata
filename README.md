@@ -1,7 +1,13 @@
-<p align="center">
-<h1>The home of the</h1><br />
-<img src="https://i.imgur.com/4QiPW4W.png" alt="Red-Eyed Renegade" />
-</p>
+## HOME OF THE
+<p align="center"><img src="https://i.imgur.com/4QiPW4W.png" alt="Red-Eyed Renegade" /></p>
+
+These past few months, I've felt like a kid in a candy store ...
+
+About a year ago now, my 23+ year career in the corporate world came to a screaming halt thanks to COVID.  Sure, I was kinda bummed for a couple of weeks, but then I realised that I had actually been handed an opportunity.  So, I spent most of my severance on setting up a company of my own, and I launched myself at a few projects I've been wanting to get my teeth into for YEARS now.
+
+I'm not quite ready to reveal them just yet - but they're almost ready.
+
+All I can say for the moment is - WATCH THIS SPACE!
 
 <!--
 **Ragdata/Ragdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
