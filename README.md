@@ -1,6 +1,6 @@
 ## HOME OF THE
 
-<p align="center"><img src="https://www.aever.net/images/brand/banner/RedEye-960-W.png" alt="Red-Eyed Renegade" /></p>
+<p align="center"><img src="https://i.imgur.com/eB7BhO9.png" alt="Red-Eyed Renegade" /></p>
 
 These past few months, I've felt like a kid in a candy store ...
 
