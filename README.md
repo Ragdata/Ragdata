@@ -4,11 +4,13 @@
 
 These past few months, I've felt like a kid in a candy store ...
 
-About a year ago now, my 23+ year career in the corporate world came to a screaming halt thanks to COVID.  Sure, I was kinda bummed for a couple of weeks, but then I realised that I had actually been handed an opportunity.  So, I spent most of my severance on setting up a company of my own, and I launched myself at a few projects I've been wanting to get my teeth into for YEARS now.
+About 2 years ago now, my 25 year career in the corporate world came to a screaming halt thanks to COVID.  Sure, I was kinda bummed for a couple of weeks, but then I realised that I had actually been handed an opportunity.  So, I spent most of my severance on setting up a company of my own, and I launched myself at a few projects I've been wanting to get my teeth into for YEARS now.
 
-I'm not quite ready to reveal them just yet - but they're almost ready.
+The one I'm having the most fun with right now is [RedEyed-RPG][redeyed-rpg] which combines everything I've learned as a Software Engineer with my life-long love of Table Top Role Playing Games (TTRPGs).  Still early days, but VERY close to launch.
 
-All I can say for the moment is - WATCH THIS SPACE!
+Stay tuned!
+
+[redeyed-rpg][https://github.com/RedEyed-RPG]
 
 <!--
 **Ragdata/Ragdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
