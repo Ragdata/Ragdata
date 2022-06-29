@@ -10,7 +10,7 @@ The one I'm having the most fun with right now is [RedEyed-RPG][redeyed-rpg] whi
 
 Stay tuned!
 
-[redeyed-rpg][https://github.com/RedEyed-RPG]
+[redeyed-rpg]: https://github.com/RedEyed-RPG
 
 <!--
 **Ragdata/Ragdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
