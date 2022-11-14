@@ -20,13 +20,17 @@ Here's what I've got ready for you so far:
 
 The `.dotfiles` project is actually a copy of MY personal dotfiles that I use on my WSL and other Linux instances.  Here, you'll find a well-developed library of aliases, functions, and some extra-special functionality that you don't normally see included in these kinds of things (I'm going to make you head over to the repo to find out what that is though) ...
 
-#### [**Linux Snippets**][linux-snippets]
+<br>
+
+#### 📘 [**Linux Snippets**][linux-snippets]
 
 My `Snippets' series' will hopefully become quite an extensive collection of hints, tips, and how-to's covering all of the most important topics you need to know when managing computer systems and networks as more than a casual user.  I'm starting with Linux, but will hopefully expand out to include Windows, and maybe even other platforms as time goes on ...
 
-#### Examples of Github "Utility" Repos
+<br>
 
-Each of these is a special kind of repository that Github deals with a little differently from all other repositories you might create.  I'll try and make the documentation for these as complete as possible so that you can use them as guides for building your own:
+#### Examples of GitHub "Utility" Repos
+
+Each of these is a special kind of repository that GitHub deals with a little differently from all other repositories you might create.  I'll try and make the documentation for these as complete as possible so that you can use them as guides for building your own:
 
 - [**.github**][github]
   - If you create a .github repo under your personal or organisation repositories, it will provide certain files by default to ALL other repositories owned by you or your organisation which don't have their own versions.  Of course, if a repo has its own copies of these files, then THOSE are the ones which will be made active for that repository.  This is great for helping to implement organisation-wide policies and procedures.
@@ -39,7 +43,9 @@ Each of these is a special kind of repository that Github deals with a little di
 <br>
 
 - [**Ragdata.github.io**][github-pages]
-  - This repository is set up as my Github User Account Website and while admittedly there's not a lot going on there at the moment, the reason I really set this up was to give you an idea of how to set up your own [Github Pages User Website][github-site].  Your Github Membership grants you one website per user account, and one more site per organization - but then you get to create as many project sites as you like - one for every repo if you want!
+  - This repository is set up as my GitHub User Account Website and while admittedly there's not a lot going on there at the moment, the reason I really set this up was to give you an idea of how to set up your own [GitHub Pages User Website][github-site].  Your GitHub Membership grants you one website per user account, and one more site per organization - but then you get to create as many project sites as you like - one for every repo if you want!
+
+<br>
 
 #### [The Project Badges Project][project-badges]
 
