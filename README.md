@@ -17,7 +17,6 @@ Ragdata's Personal Project Repositories
 
 <br>
 <hr>
-<br>
 
 ## Ragdata's Personal Project Repositories
 
