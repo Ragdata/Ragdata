@@ -1,6 +1,20 @@
-## HOME OF
+<h1 align="center">HOME OF</h1>
 
 <p align="center"><img src="https://aever.net/images/brand/banner/RedEyed-SW-D-960.png" alt="Red-Eyed Renegade" /></p>
+
+<h3 align="center">(Ragdata)  |  (<a href="https://github.com/ragdata-archive">Ragdata-Archive</a>)</h3>
+
+<h2 align="center">ORGANISATIONS</h2>
+
+<p align="center">
+<a href="https://github.com/aevernet"><img src="https://aever.net/images/brand/logo/shield/Shield-64.png" alt="RedEyed Software by Ragdata"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ragdata"><img src="https://aever.net/images/brand/logo/red-eye/RedEye-Circle-T-64.png" alt="RedEyed Software by Ragdata"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/redeyed-rpg"><img src="https://aever.net/images/brand/logo/redeyed-rpg/d20RB/d20RB-64.png" alt="RedEyed Software by Ragdata"></a>
+</p>
+
+<br/>
 
 These past few months, I've felt like a kid in a candy store ...
 
@@ -54,6 +68,9 @@ Last, but certainly not least is a tongue-in-cheek documentation project I start
 
 
 
+[ragdata]: https://github.com/ragdata
+[archive]: https://github.com/ragdata-archive
+
 [redeyed-rpg]: https://github.com/RedEyed-RPG
 [dotfiles]: https://github.com/ragdata/.dotfiles
 [linux-snippets]: https://github.com/ragdata/linux-snippets
@@ -62,6 +79,8 @@ Last, but certainly not least is a tongue-in-cheek documentation project I start
 [github-pages]: https://github.com/ragdata/ragdata.github.io
 [github-site]: https://pages.github.com/
 [project-badges]: https://github.com/ragdata/project-badges
+
+
 
 <!--
 **Ragdata/Ragdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
