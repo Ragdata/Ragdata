@@ -1,20 +1,23 @@
-<p align="center"><img src="https://aever.net/images/brand/banner/RedEyed-SW-D-960.png" alt="Red-Eyed Renegade" /></p>
+<h3 align="center">
+<img src="https://aever.net/images/brand/banner/RedEyed-SW-D-960.png" alt="Red-Eyed Renegade">
 
-<h3 align="center">(Ragdata)  |  (<a href="https://github.com/ragdata-archive">Ragdata-Archive</a>)</h3>
+Ragdata's Personal Project Repositories
 
-<br/>
+(Ragdata)  |  (<a href="https://github.com/ragdata-archive">Ragdata-Archive</a>)
 
-<p align="center">
+<br>
+
 <a href="https://github.com/aevernet"><img src="https://aever.net/images/brand/logo/shield/Shield-64.png" alt="RedEyed Software by Ragdata"></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ragdata"><img src="https://aever.net/images/brand/logo/red-eye/RedEye-Circle-T-64.png" alt="RedEyed Software by Ragdata"></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/redeyed-rpg"><img src="https://aever.net/images/brand/logo/redeyed-rpg/d20RB/d20RB-64.png" alt="RedEyed Software by Ragdata"></a>
-</p>
 
-<br/>
+</h3>
 
-These past few months, I've felt like a kid in a candy store ...
+<hr>
+
+These past several months, I've felt like a kid in a candy store ...
 
 About 2 years ago now, my 25 year career in the corporate world came to a screaming halt thanks to COVID.  Sure, I was kinda bummed for a couple of weeks, but then I realised that I had actually been handed an opportunity.  So, I spent most of my severance on setting up a company of my own, and I launched myself at a few projects I've been wanting to get my teeth into for YEARS now.
 
