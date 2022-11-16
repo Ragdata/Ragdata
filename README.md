@@ -1,10 +1,8 @@
-<h1 align="center">HOME OF</h1>
-
 <p align="center"><img src="https://aever.net/images/brand/banner/RedEyed-SW-D-960.png" alt="Red-Eyed Renegade" /></p>
 
 <h3 align="center">(Ragdata)  |  (<a href="https://github.com/ragdata-archive">Ragdata-Archive</a>)</h3>
 
-<h2 align="center">ORGANISATIONS</h2>
+<br/>
 
 <p align="center">
 <a href="https://github.com/aevernet"><img src="https://aever.net/images/brand/logo/shield/Shield-64.png" alt="RedEyed Software by Ragdata"></a>
