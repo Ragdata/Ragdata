@@ -17,7 +17,7 @@ Ragdata's Personal Project Repositories
 
 <br>
 
-<span style="display:block;text-align:center">[![GitHub Streak](https://streak-stats.demolab.com?user=ragdata&theme=slateorange&hide_border=true&background=0D1117&fire=DD2727&dates=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=DD2727&sideNum=DD2727&sideLabel=DD2727)](https://git.io/streak-stats)</span>
+[//]: # (<span style="display:block;text-align:center">[![GitHub Streak]&#40;https://streak-stats.demolab.com?user=ragdata&theme=slateorange&hide_border=true&background=0D1117&fire=DD2727&dates=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=DD2727&sideNum=DD2727&sideLabel=DD2727&#41;]&#40;https://git.io/streak-stats&#41;</span>)
 
 
 
