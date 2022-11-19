@@ -1,4 +1,4 @@
-<h3 align="center">
+<h2 align="center">
 <img src="https://aever.net/images/brand/banner/RedEyed-SW-D-960.png" alt="Red-Eyed Renegade">
 
 Ragdata's Personal Project Repositories
@@ -13,9 +13,18 @@ Ragdata's Personal Project Repositories
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/redeyed-rpg"><img src="https://aever.net/images/brand/logo/redeyed-rpg/d20RB/d20RB-64.png" alt="RedEyed Software by Ragdata"></a>
 
-</h3>
+</h2>
 
 <br>
+
+<span style="display:block;text-align:center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ragdata&theme=slateorange&hide_border=true&background=0D1117&fire=DD2727&dates=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=DD2727&sideNum=DD2727&sideLabel=DD2727)](https://git.io/streak-stats)
+
+</span>
+
+
+
 <hr>
 
 ## Ragdata's Personal Project Repositories
