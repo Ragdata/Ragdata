@@ -18,8 +18,6 @@ Ragdata's Personal Project Repositories
 [//]: # (<span style="display:block;text-align:center">[![GitHub Streak]&#40;https://streak-stats.demolab.com?user=ragdata&theme=slateorange&hide_border=true&background=0D1117&fire=DD2727&dates=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=DD2727&sideNum=DD2727&sideLabel=DD2727&#41;]&#40;https://git.io/streak-stats&#41;</span>)
 
 
-<h2>Ragdata's Personal Project Repositories</h2>
-
 These past several months, I've felt like a kid in a candy store ...
 
 About 2 years ago now, my 25 year career in the corporate world came to a screaming halt thanks to COVID.  Sure, I was kinda bummed for a couple of weeks, but then I realised that I had actually been handed an opportunity.  So, I spent most of my severance on setting up a company of my own, and I launched myself at a few projects I've been wanting to get my teeth into for YEARS now.
