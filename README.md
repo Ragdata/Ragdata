@@ -61,12 +61,6 @@ Each of these is a special kind of repository that GitHub deals with a little di
 - [**Ragdata.github.io**][github-pages]
   - This repository is set up as my GitHub User Account Website and while admittedly there's not a lot going on there at the moment, the reason I really set this up was to give you an idea of how to set up your own [GitHub Pages User Website][github-site].  Your GitHub Membership grants you one website per user account, and one more site per organization - but then you get to create as many project sites as you like - one for every repo if you want!
 
-<br>
-
-#### 🏆 [The Project Badges Project][project-badges]
-
-Last, but certainly not least is a tongue-in-cheek documentation project I started quite some time ago and STILL haven't done anything with which pokes a bit of fun at our obsession with those colourful little badges we all love to plaster all over our README files, and includes a small homage to the guys who actually started the craze.
-
 
 
 
