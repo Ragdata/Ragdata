@@ -25,20 +25,20 @@ jobs:
                   plugin_achievements_display: compact      # use compact display mode
                   plugin_achievements_limit: 0              # limit displayed achievements (no limit)
                   
-    github-metrics:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: lowlighter/metrics@latest
-              with:
-                  filename: header.svg
-                  token: ${{ secrets.METRICS_TOKEN }}
-                  committer_token: ${{ secrets.GITHUB_TOKEN }}
-                  user: ragdata
-                  base: header
-                  template: classic
-                  config_timezone: ${{ secrets.TIMEZONE }}
-                  plugin_gists: yes
-                  
+#    github-metrics:
+#        runs-on: ubuntu-latest
+#        steps:
+#            - uses: lowlighter/metrics@latest
+#              with:
+#                  filename: header.svg
+#                  token: ${{ secrets.METRICS_TOKEN }}
+#                  committer_token: ${{ secrets.GITHUB_TOKEN }}
+#                  user: ragdata
+#                  base: header
+#                  template: classic
+#                  config_timezone: ${{ secrets.TIMEZONE }}
+#                  plugin_gists: yes
+    
     lines:
         runs-on: ubuntu-latest
         steps:
@@ -120,6 +120,7 @@ jobs:
                   committer_token: ${{ secrets.GITHUB_TOKEN }}
                   user: ragdata
                   template: classic
+                  plugin_gists: yes
 
     wakatime:
         runs-on: ubuntu-latest
