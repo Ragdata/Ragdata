@@ -19,7 +19,13 @@ Ragdata's Personal Project Repositories
 
 [//]: # (<a href="https://github.com/redeyed-rpg"><img src="https://aever.net/images/brand/logo/redeyed-rpg/d20RB/d20RB-64.png" alt="RedEyed Software by Ragdata"></a>)
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
 </h2>
 
+<img src="/repositories.svg" alt="Repositories" width="49%" align="middle">
+<img src="/acti-comm.svg" alt="Activity" width="49%" align="middle">
+<img src="/iso-calendar.svg" alt="Calendar" width="49%" align="middle">
+<img src="/languages.svg" alt="Languages" width="49%" align="middle">
+<img src="/github-habits.svg" alt="Habits" width="49%" align="middle">
+<img src="/code.svg" alt="Code" width="49%" align="middle">
+<img src="/wakatime.svg" alt="Wakatime" width="49%" align="middle">
+<img src="/achievements.svg" alt="Activity" width="49%" align="middle">
