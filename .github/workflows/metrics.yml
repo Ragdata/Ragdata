@@ -127,6 +127,7 @@ jobs:
             - uses: lowlighter/metrics@latest
               with:
                   filename: wakatime.svg
+                  token: ${{ secrets.METRICS_TOKEN }}
                   base: ""
                   plugin_wakatime: yes
                   plugin_wakatime_sections: time, projects, project-graphs, languages, languages-graphs, editors, os
