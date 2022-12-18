@@ -21,11 +21,10 @@ Ragdata's Personal Project Repositories
 
 </h2>
 
-<img src="/repositories.svg" alt="Repositories" width="49%" align="middle">
-<img src="/acti-comm.svg" alt="Activity" width="49%" align="middle">
-<img src="/iso-calendar.svg" alt="Calendar" width="49%" align="middle">
-<img src="/languages.svg" alt="Languages" width="49%" align="middle">
-<img src="/github-habits.svg" alt="Habits" width="49%" align="middle">
-<img src="/code.svg" alt="Code" width="49%" align="middle">
-<img src="/wakatime.svg" alt="Wakatime" width="49%" align="middle">
-<img src="/achievements.svg" alt="Activity" width="49%" align="middle">
+<img src="./repositories.svg" alt="Repositories" width="49%" align="center">
+<img src="./acti-comm.svg" alt="Activity" width="49%" align="center">
+<img src="./iso-calendar.svg" alt="Calendar" width="49%" align="center">
+<img src="./languages.svg" alt="Languages" width="49%" align="center">
+<img src="./github-habits.svg" alt="Habits" width="49%" align="center">
+<img src="./wakatime.svg" alt="Wakatime" width="49%" align="center">
+<img src="./achievements.svg" alt="Activity" width="49%" align="center">
