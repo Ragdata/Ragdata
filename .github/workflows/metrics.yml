@@ -38,18 +38,18 @@ jobs:
 #                  template: classic
 #                  config_timezone: ${{ secrets.TIMEZONE }}
 #                  plugin_gists: yes
+
+#    lines:
+#        runs-on: ubuntu-latest
+#        steps:
+#            - uses: lowlighter/metrics@latest
+#              with:
+#                  filename: code.svg
+#                  token: ${{ secrets.METRICS_TOKEN }}
+#                  committer_token: ${{ secrets.GITHUB_TOKEN }}
+#                  base: repositories
+#                  plugin_lines: yes
     
-    lines:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: lowlighter/metrics@latest
-              with:
-                  filename: code.svg
-                  token: ${{ secrets.METRICS_TOKEN }}
-                  committer_token: ${{ secrets.GITHUB_TOKEN }}
-                  base: repositories
-                  plugin_lines: yes
-                  
     acti_com:
         runs-on: ubuntu-latest
         steps:
