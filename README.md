@@ -21,10 +21,10 @@ Ragdata's Personal Project Repositories
 
 </h2>
 
-<img src="./repositories.svg" alt="Repositories" width="49%" align="center">
-<img src="./acti-comm.svg" alt="Activity" width="49%" align="center">
-<img src="./iso-calendar.svg" alt="Calendar" width="49%" align="center">
-<img src="./languages.svg" alt="Languages" width="49%" align="center">
-<img src="./github-habits.svg" alt="Habits" width="49%" align="center">
-<img src="./wakatime.svg" alt="Wakatime" width="49%" align="center">
-<img src="./achievements.svg" alt="Activity" width="49%" align="center">
+<a href="https://github.com/ragdata"><img src="./repositories.svg" alt="Repositories" width="49%" align="center" /></a>
+<a href="https://github.com/ragdata"><img src="./achievements.svg" alt="Activity" width="49%" align="center" /></a>
+<a href="https://github.com/ragdata"><img src="./acti-comm.svg" alt="Activity" width="49%" align="center" /></a>
+<a href="https://github.com/ragdata"><img src="./languages.svg" alt="Languages" width="49%" align="center" /></a>
+<a href="https://github.com/ragdata"><img src="./github-habits.svg" alt="Habits" width="49%" align="center" /></a>
+<a href="https://github.com/ragdata"><img src="./iso-calendar.svg" alt="Calendar" width="49%" align="center" /></a>
+<a href="https://github.com/ragdata"><img src="./wakatime.svg" alt="Wakatime" width="49%" align="center" /></a>
