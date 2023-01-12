@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.95458373231827" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="343.95458373231827" y="0" width="95.42021232101132" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="439.3747960533296" y="0" width="19.919736211601567" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.29453226493115" y="0" width="0.5392583810890359" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="459.8337906460202" y="0" width="0.1662093539797963" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="344.230848853531" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="344.230848853531" y="0" width="95.49685405736196" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="439.7277029108929" y="0" width="19.566262720713475" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.2939656316064" y="0" width="0.5396915146742899" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="459.8336571462807" y="0" width="0.16634285371928414" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,7 +38,7 @@
                             </div>
                             <small>
                                 <div>5.60 MB</div>
-                                <div>74.77%</div>
+                                <div>74.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -49,8 +49,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>324 kB</div>
-                                <div>4.33%</div>
+                                <div>318 kB</div>
+                                <div>4.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -76,7 +76,7 @@
                             </div>
                             <small>
                                 <div>1.55 MB</div>
-                                <div>20.74%</div>
+                                <div>20.76%</div>
                             </small>
                         </div>
                         <div class="field language details">
