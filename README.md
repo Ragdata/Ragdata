@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://camo.githubusercontent.com/2eceb41d29983b7130f8a310241270b9fa9d39dbd76216537e61ddf7aa84a05d/68747470733a2f2f61657665722e6e65742f696d616765732f6272616e642f62616e6e65722f526564457965642d53572d442d3936302e706e67" alt="RedEyed Rogue">
+<img src="https://github.com/Ragdata/Ragdata/blob/58c46db06c0f89f1125dcaa966999af45a5d74c7/images/logo/banner/Ragdata-2-800x200.png" alt="Ragdata's RedEyed Software">
 
 Ragdata's Personal Project Repositories
 
