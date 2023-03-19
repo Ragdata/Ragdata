@@ -9,6 +9,7 @@
 <h4>
 Largely ignored the world over, Ragdata blogs about self-hosting & open source news, tutorials, and how-to guides, and writes personal introductions in the third person in a vain attempt to maintain plausible deniability of the entire affair.  Currently spending far too much time writing software he intends to give away for free and desperately trying to figure out how to monetize his greatest passions before the bank moves to foreclose.
 
+
 Greatest Passions:
 
  - Writing Open Source Software
