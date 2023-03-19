@@ -1,13 +1,41 @@
 <h1 align="center">
-<img src="https://github.com/Ragdata/Ragdata/blob/58c46db06c0f89f1125dcaa966999af45a5d74c7/images/logo/banner/Ragdata-2-800x200.png" alt="Ragdata's RedEyed Software">
-
-Ragdata's Personal Project Repositories
-
-<a href="https://github.com/aevernet"><img src="https://raw.githubusercontent.com/Ragdata/Ragdata/master/images/logo/aevernet/64x64-Shield-SQ.png" alt="Aevernet" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/redeyed-rpg"><img src="https://raw.githubusercontent.com/Ragdata/Ragdata/master/images/logo/redeyed/rpg/64x64-d20RB.png" alt="RedEyed-RPG" /></a>
-
+<img src="https://user-images.githubusercontent.com/6827931/226155940-f16a03c0-bcf8-48a1-8537-c8469efe273b.png" alt="Ragdata's RedEyed Software">
 </h1>
+<h3>
+
+> Welcome to the lair of the internationally unrecognized Australian Technologist known simply (if somewhat arrogantly) as Ragdata.
+
+</h3>
+<h4>
+Largely ignored the world over, Ragdata blogs about self-hosting & open source news, tutorials, and how-to guides, and writes personal introductions in the third person in a vain attempt to maintain plausible deniability of the entire affair.  Currently spending far too much time writing software he intends to give away for free and desperately trying to figure out how to monetize his greatest passions before the bank moves to foreclose.
+
+Greatest Passions:
+
+ - Writing Open Source Software
+ - Fiddling with his Homelab / Self-Hosting
+ - Designing / Playing Tabletop Role-Playing Games
+
+Lucky Numbers:  3.141592653589793238 
+
+Star Sign: Moody and somewhat foreboding ...
+
+</h4>
+
+<br />
+
+<div align="center">
+
+<a href="https://twitter.com/RedEyedSoftware" target="_blank"><img src="https://img.shields.io/badge/Twitter-55ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://reddit.com/r/RedeyedSoftware" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
+<a href="https://facebook.com/redeyedsoftware" target="_blank"><img src="https://img.shields.io/badge/Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://discord.gg/54PkrM7TKq" target="_blank"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" alt="Substack"></a>
+
+<a href="https://github.com/sponsors/Ragdata" target="_blank"><img src="https://img.shields.io/badge/Sponsor_Ragdata-30363D?style=for-the-badge&logo=github-sponsors&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
+<a href="https://ko-fi.com/ragdata" target="_blank"><img src="https://img.shields.io/badge/Support_Ragdata-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="GitHub Sponsors"></a>
+
+</div>
+
+<br />
 
 <a href="https://github.com/ragdata"><img src="./repositories.svg" alt="Repositories" width="49%" align="center" /></a>
 <a href="https://github.com/ragdata"><img src="./github-habits.svg" alt="Habits" width="49%" align="center" /></a>
@@ -15,3 +43,5 @@ Ragdata's Personal Project Repositories
 <a href="https://github.com/ragdata"><img src="./languages.svg" alt="Languages" width="49%" align="center" /></a>
 <a href="https://github.com/ragdata"><img src="./wakatime.svg" alt="Wakatime" width="49%" align="center" /></a>
 <a href="https://github.com/ragdata"><img src="./achievements.svg" alt="Activity" width="49%" align="center" /></a>
+
+<small>Infographics by <a href="https://github.com/lowlighter/metrics" target="_blank">Lowlighter</a></small>
