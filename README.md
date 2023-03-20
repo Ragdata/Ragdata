@@ -39,4 +39,19 @@
 <a href="https://github.com/ragdata"><img src="./wakatime.svg" alt="Wakatime" width="49%" align="center" /></a>
 <a href="https://github.com/ragdata"><img src="./achievements.svg" alt="Activity" width="49%" align="center" /></a>
 
+<h1 align="center"><a name="top" href="#top">Recommended Projects</a></h1>
+
+<h3><a name="github" href="https://github.com/ragdata/.github">Ragdata's Repository Template <em>(ragdata/.github)</em></a></h3>
+
+<img src="https://img.shields.io/github/stars/ragdata/.github?style=social" alt="stars">
+&nbsp;
+<img src="https://img.shields.io/github/forks/ragdata/.github?style=social" alt="forks">
+&nbsp;
+<img src="https://img.shields.io/github/last-commit/ragdata/.github" alt="last commit">
+
+Everything you need to start your GitHub project the right way!  Includes README Template, FULL set of Community Health Files, Issue Templates and configuration files for commonly-used GitHub Apps.
+
+
+[//]: # (<h3><a name="" href=""></a></h3>)
+
 <small>Infographics by <a href="https://github.com/lowlighter/metrics" target="_blank">Lowlighter</a></small>
