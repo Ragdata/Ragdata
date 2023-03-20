@@ -44,9 +44,7 @@
 <h3><a name="github" href="https://github.com/ragdata/.github">Ragdata's Repository Template <em>(ragdata/.github)</em></a></h3>
 
 <img src="https://img.shields.io/github/stars/ragdata/.github?style=social" alt="stars" align="left">
-&nbsp;
-<img src="https://img.shields.io/github/forks/ragdata/.github?style=social" alt="forks">
-&nbsp;
+<img src="https://img.shields.io/github/forks/ragdata/.github?style=social" alt="forks" align="left">
 <img src="https://img.shields.io/github/last-commit/ragdata/.github" alt="last commit">
 
 Everything you need to start your GitHub project the right way!  Includes README Template, FULL set of Community Health Files, Issue Templates and configuration files for commonly-used GitHub Apps.
