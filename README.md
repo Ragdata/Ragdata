@@ -18,6 +18,23 @@
 
 <br />
 
+<div align="center" style="float: left; width: 50%">
+
+<a href="https://github.com/bash-bits" target="_blank"><img src="https://user-images.githubusercontent.com/6827931/226158316-807b7114-6a69-4bc4-bd85-c690690d21e0.png" alt="RedEyed Software" /></a>
+
+<a href="https://github.com/bash-bits" target="_blank"><h3>Bash Bits</h3></a>
+
+</div>
+<div align="center" style="float: left; width: 50%">
+
+<a href="https://github.com/bash-bits" target="_blank"><img src="https://user-images.githubusercontent.com/6827931/226158316-807b7114-6a69-4bc4-bd85-c690690d21e0.png" alt="RedEyed Software" /></a>
+
+<a href="https://github.com/bash-bits" target="_blank"><h3>Bash Bits</h3></a>
+
+</div>
+
+<br />
+
 <div align="center">
 
 <a href="https://twitter.com/RedEyedSoftware" target="_blank"><img src="https://img.shields.io/badge/Twitter-55ACEE?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
