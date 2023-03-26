@@ -18,20 +18,13 @@
 
 <br />
 
-<div align="center" style="float: left; width: 50%">
+<h1 align="center"><a name="top" href="#top">Flagship Projects</a></h1>
 
-<a href="https://github.com/bash-bits" target="_blank"><img src="https://user-images.githubusercontent.com/6827931/226158316-807b7114-6a69-4bc4-bd85-c690690d21e0.png" alt="RedEyed Software" /></a>
+<h3 align="center">
 
-<a href="https://github.com/bash-bits" target="_blank"><h3>Bash Bits</h3></a>
+<a href="https://github.com/bash-bits" target="_blank"><img src="https://user-images.githubusercontent.com/6827931/227745915-3211c64a-1e29-4089-b352-4700721e0f0e.png" alt="Bash Bits Modular Library" /><br /><br />Bash Bits<br />Modular Bash Library</a>
 
-</div>
-<div align="center" style="float: left; width: 50%">
-
-<a href="https://github.com/bash-bits" target="_blank"><img src="https://user-images.githubusercontent.com/6827931/226158316-807b7114-6a69-4bc4-bd85-c690690d21e0.png" alt="RedEyed Software" /></a>
-
-<a href="https://github.com/bash-bits" target="_blank"><h3>Bash Bits</h3></a>
-
-</div>
+</h3>
 
 <br />
 
@@ -64,9 +57,11 @@ Everything you need to start your GitHub project the right way!  Includes README
 
 <img src="https://img.shields.io/github/stars/ragdata/.github?style=social" alt="stars" align="left">
 <img src="https://img.shields.io/github/forks/ragdata/.github?style=social" alt="forks" align="left">
-<img src="https://img.shields.io/github/last-commit/ragdata/.github" alt="last commit">
+<img src="https://img.shields.io/github/last-commit/ragdata/.github?style=flat-square" alt="last commit">
 
 
 [//]: # (<h3><a name="" href=""></a></h3>)
 
 <small>Infographics by <a href="https://github.com/lowlighter/metrics" target="_blank">Lowlighter</a></small>
+
+<img src="https://komarev.com/ghpvc/?username=Ragdata&label=PROFILE+VIEWS&color=4a6bad&style=flat-square" alt="Ragdata" />
