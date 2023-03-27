@@ -69,6 +69,7 @@ Everything you need to start your GitHub project the right way!  Includes README
 <img src="https://img.shields.io/github/forks/ragdata/.github?style=social" alt="forks" align="left">
 <img src="https://img.shields.io/github/last-commit/ragdata/.github?style=flat-square" alt="last commit">
 
+<hr />
 
 [//]: # (<h3><a name="" href=""></a></h3>)
 
