@@ -18,8 +18,6 @@
 
 <br />
 
-<h1 align="center"><a name="top" href="#top">Flagship Projects</a></h1>
-
 <h3 align="center">
 
 <a href="https://github.com/bash-bits" target="_blank"><img src="https://user-images.githubusercontent.com/6827931/227745915-3211c64a-1e29-4089-b352-4700721e0f0e.png" alt="Bash Bits Modular Library" /><br /><br />Bash Bits<br />Modular Bash Library</a>
@@ -49,7 +47,19 @@
 <a href="https://github.com/ragdata"><img src="./wakatime.svg" alt="Wakatime" width="49%" align="center" /></a>
 <a href="https://github.com/ragdata"><img src="./achievements.svg" alt="Activity" width="49%" align="center" /></a>
 
-<h1 align="center"><a name="top" href="#top">Recommended Projects</a></h1>
+<h1 align="center"><a name="top" href="#top">Primary Projects</a></h1>
+
+<h3><a name="github" href="https://github.com/bash-bits">Bash Bits <em>(Monorepo)</em></a></h3>
+
+`Bash Bits` is a modular bash library built which contains a HUGE amount of code intended specifically for you to use in your own `bash` scripting projects (version 4+).  The library is designed with WSL2 (Ubuntu) users in mind, but you should be able to make good use of it on most `bash` systems - and if not, you may learn a thing or two just by looking through the code!  
+
+<img src="https://img.shields.io/github/stars/bash-bits/bash-bits?style=social" alt="stars" align="left">
+<img src="https://img.shields.io/github/forks/bash-bits/bash-bits?style=social" alt="forks" align="left">
+<img src="https://img.shields.io/github/last-commit/bash-bits/bash-bits?style=flat-square" alt="last commit">
+
+
+
+<h1 align="center"><a name="rec" href="#rec">Recommended Projects</a></h1>
 
 <h3><a name="github" href="https://github.com/ragdata/.github">Ragdata's Repository Template <em>(ragdata/.github)</em></a></h3>
 
