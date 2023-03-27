@@ -51,7 +51,7 @@
 
 <h3><a name="github" href="https://github.com/bash-bits">Bash Bits <em>(Monorepo)</em></a></h3>
 
-`Bash Bits` is a modular bash library built which contains a HUGE amount of code intended specifically for you to use in your own `bash` scripting projects (version 4+).  The library is designed with WSL2 (Ubuntu) users in mind, but you should be able to make good use of it on most `bash` systems - and if not, you may learn a thing or two just by looking through the code!  
+`Bash Bits` is a modular bash library which contains a HUGE amount of code intended specifically for you to use in your own `bash` scripting projects (version 4+).  The library is designed with WSL2 (Ubuntu) users in mind, but you should be able to make good use of it on most `bash` systems - and if not, you may learn a thing or two just by looking through the code!  
 
 <img src="https://img.shields.io/github/stars/bash-bits/bash-bits?style=social" alt="stars" align="left">
 <img src="https://img.shields.io/github/forks/bash-bits/bash-bits?style=social" alt="forks" align="left">
