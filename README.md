@@ -49,13 +49,17 @@
 
 <h1 align="center"><a name="top" href="#top">Primary Projects</a></h1>
 
-<h3><a name="github" href="https://github.com/bash-bits">Bash Bits <em>(Monorepo)</em></a></h3>
+<h3><a name="github" href="https://github.com/bash-bits/bb-import">BB-Import Module <em>of the Bash-Bits Modular Bash Library</em></a></h3>
 
-`Bash Bits` is a modular bash library which contains a HUGE amount of code intended specifically for you to use in your own `bash` scripting projects (version 4+).  The library is designed with WSL2 (Ubuntu) users in mind, but you should be able to make good use of it on most `bash` systems - and if not, you might learn something just by looking through the code!  
+`Bash-Bits` is a modular library for Bash 4+ which contains a bunch of code intended specifically for you to use in your own `Bash` scripting projects.  The library is designed with WSL2 (Ubuntu) users in mind, but you'll be able to make good use of it on most `Bash` systems.
 
-<img src="https://img.shields.io/github/stars/bash-bits/bash-bits?style=social" alt="stars" align="left">
-<img src="https://img.shields.io/github/forks/bash-bits/bash-bits?style=social" alt="forks" align="left">
-<img src="https://img.shields.io/github/last-commit/bash-bits/bash-bits?style=flat-square" alt="last commit">
+The `Bash-Bits Importer` is the most important and most magical part of the whole `Bash-Bits` suite.  This module allows you to download ALL other `Bash-Bits` modules and include them in your projects, as well as any other file on the planet you can describe with a URL or File Path!
+
+The first time you download each file, `BB-Import` will cache it on your local machine where it will stay until you decide to clear it out or replace it.  Best of all, the next version of `BB-Import` will keep track of updates as well, so that you'll never be using outdated dependencies ever again (if you configure for automatic updates)!! 
+
+<img src="https://img.shields.io/github/stars/bash-bits/bb-import?style=social" alt="stars" align="left">
+<img src="https://img.shields.io/github/forks/bash-bits/bb-import?style=social" alt="forks" align="left">
+<img src="https://img.shields.io/github/last-commit/bash-bits/bb-import?style=flat-square" alt="last commit">
 
 
 
