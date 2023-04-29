@@ -49,7 +49,7 @@
 
 <h1 align="center"><a name="top" href="#top">Primary Projects</a></h1>
 
-<h3><a name="github" href="https://github.com/bash-bits/bb-import">BB-Import Module <em>of the Bash-Bits Modular Bash Library</em></a></h3>
+<h3><a name="github" href="https://github.com/bash-bits/bb-import">BB-Import Module <em>of the Bash-Bits Modular Bash Library (bash-bits/bb-import)</em></a></h3>
 
 `Bash-Bits` is a modular library for Bash 4+ which contains a bunch of code intended specifically for you to use in your own `Bash` scripting projects.  The library is designed with WSL2 (Ubuntu) users in mind, but you'll be able to make good use of it on most `Bash` systems.
 
