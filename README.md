@@ -37,6 +37,12 @@ Right now I'm concentrating on **building a community** of like-minded super-ner
 <a href="https://github.com/ragdata"><img src="./wakatime.svg" alt="Wakatime" width="49%" align="center" /></a>
 <a href="https://github.com/ragdata"><img src="./achievements.svg" alt="Activity" width="49%" align="center" /></a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg" />
+  <img alt="github-snake" src="./github-snake.svg" />
+</picture>
+
 <hr />
 
 <h1 align="center"><a name="top" href="#top">Primary Projects</a></h1>
