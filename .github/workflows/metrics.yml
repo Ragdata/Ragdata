@@ -109,11 +109,6 @@ jobs:
               plugin_sponsorships_sections: amount
 
   snake:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v2
-          with:
-              github_user_name: ${{ github.repository_owner }}
-              outputs: |
-                  dist/github-snake.svg
-                  dist/github-snake-dark.svg?palette=github-dark
+    - uses: Platane/snk/svg-only@v2
+      with:
+          github_user_name: ${{ github.repository_owner }}
