@@ -96,3 +96,14 @@ jobs:
           plugin_wakatime_sections: time, projects, project-graphs, languages, languages-graphs, editors, os
           #plugin_wakatime_sections: time, projects, project-graphs, languages, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+
+  sponsorships:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: lowlighter/metrics@latest
+          with:
+              filename: metrics.plugin.sponsorships.svg
+              token: ${{ secrets.METRICS_TOKEN }}
+              base: ""
+              plugin_sponsorships: yes
+              plugin_sponsorships_sections: amount
