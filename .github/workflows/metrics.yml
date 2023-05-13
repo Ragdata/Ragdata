@@ -102,7 +102,7 @@ jobs:
       steps:
         - uses: lowlighter/metrics@latest
           with:
-              filename: metrics.plugin.sponsorships.svg
+              filename: sponsorships.svg
               token: ${{ secrets.METRICS_TOKEN }}
               base: ""
               plugin_sponsorships: yes
