@@ -118,7 +118,7 @@ Bash-Bits Modular Bash Library
 </td>
 <td>
 
-#### _THE MOST IMPORTANT AND MAGICAL PART OF BASH-BITS!_
+**_THE MOST IMPORTANT AND MAGICAL PART OF BASH-BITS!_**
 
 The `Bash-Bits Importer Module` is the ultimate package management utility. It not only manages `Bash-Bits` modules - it will manage **_ANY FILE WITH A URL_**!
 
@@ -146,7 +146,7 @@ The `Bash-Bits Importer Module` is the ultimate package management utility. It n
 </td>
 <td>
 
-#### _EVERYTHING A HEALTHY GITHUB PROJECT NEEDS!_
+**_EVERYTHING A HEALTHY GITHUB PROJECT NEEDS!_**
 
 My `Project Templates` repo includes a full set of Community Health Files (Security Policy, Code of Conduct, etc), Issue Templates, and a README Template!
 
