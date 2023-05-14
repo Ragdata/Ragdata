@@ -95,34 +95,36 @@ If you like this repo, please give it a ⭐ (it really does help)
 
 <h1 align="center"><a name="top" href="#top">Primary Projects</a></h1>
 
-<div align="center">
-
+<h2 align="center">
 <a href="https://github.com/bash-bits" target="_blank">
-	<img src="https://raw.githubusercontent.com/Ragdata/Ragdata/master/.github/media/projects/BashBits-Social-800x400.png" alt="Bash Bits Modular Library" />
-	<h2>Bash-Bits Modular Bash Library</h2>
-</a>
+<img src="https://raw.githubusercontent.com/Ragdata/Ragdata/master/.github/media/projects/BashBits-Social-800x400.png" alt="Bash Bits Modular Library" />
 
-</div>
+Bash-Bits Modular Bash Library
+</a>
+</h2>
 
 `Bash-Bits` is a modular library for Bash 4+ which contains a bunch of code intended specifically for you to use in your own `Bash` scripting projects.  The library is designed with WSL2 (Ubuntu) users in mind, but you'll be able to make good use of it on most `Bash` systems.
 
 <table width="100%">
 <tr>
-<td align="center">
+<td width="350" align="center">
 <a href="https://github.com/bash-bits/bb-import"><img alt="BB-Import" width="300" src="https://raw.githubusercontent.com/Ragdata/Ragdata/master/.github/media/projects/BashBits-Import-300x150.png" /></a>
+
+<a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/stars/bash-bits/bb-import?style=social" alt="stars" align="left"></a>
+<a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/forks/bash-bits/bb-import?style=social" alt="forks" align="left"></a>
+<a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/last-commit/bash-bits/bb-import?style=flat" alt="last commit"></a>
 </td>
 <td>
 <h3><a name="github" href="https://github.com/bash-bits/bb-import">BB-Import <em>(bash-bits/bb-import)</em></a></h3>
 
 #### _THE MOST IMPORTANT AND MAGICAL PART OF BASH-BITS!_
 
+The `Bash-Bits Importer Module` is the ultimate package management utility, because it's NOT limited to only managing other `Bash-Bits` modules - it will manage **_ANY FILE WITH A URL_**!
+
 - ✅ Quick & easy, automagical install
 - ✅ Download & cache ANY FILE to use in your scripts
 - ✅ Next version includes auto-updates!
 
-<a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/stars/bash-bits/bb-import?style=social" alt="stars" align="left"></a>
-<a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/forks/bash-bits/bb-import?style=social" alt="forks" align="left"></a>
-<a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/last-commit/bash-bits/bb-import?style=flat" alt="last commit"></a>
 </td>
 </tr>
 </table>
