@@ -106,7 +106,7 @@ If you like this repo, please give it a ⭐ (it really does help)
 
 `Bash-Bits` is a modular library for Bash 4+ which contains a bunch of code intended specifically for you to use in your own `Bash` scripting projects.  The library is designed with WSL2 (Ubuntu) users in mind, but you'll be able to make good use of it on most `Bash` systems.
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%">
 
