@@ -106,6 +106,9 @@ Bash-Bits Modular Bash Library
 `Bash-Bits` is a modular library for Bash 4+ which contains a bunch of code intended specifically for you to use in your own `Bash` scripting projects.  The library is designed with WSL2 (Ubuntu) users in mind, but you'll be able to make good use of it on most `Bash` systems.
 
 <table width="100%">
+<tr><td colspan="2">
+<h3><a name="github" href="https://github.com/bash-bits/bb-import">BB-Import <em>(bash-bits/bb-import)</em></a></h3>
+</td></tr>
 <tr>
 <td width="350" align="center">
 <a href="https://github.com/bash-bits/bb-import"><img alt="BB-Import" width="300" src="https://raw.githubusercontent.com/Ragdata/Ragdata/master/.github/media/projects/BashBits-Import-300x150.png" /></a>
@@ -115,8 +118,6 @@ Bash-Bits Modular Bash Library
 <a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/last-commit/bash-bits/bb-import?style=flat" alt="last commit"></a>
 </td>
 <td>
-<h3><a name="github" href="https://github.com/bash-bits/bb-import">BB-Import <em>(bash-bits/bb-import)</em></a></h3>
-
 #### _THE MOST IMPORTANT AND MAGICAL PART OF BASH-BITS!_
 
 The `Bash-Bits Importer Module` is the ultimate package management utility. It not only manages `Bash-Bits` modules - it will manage **_ANY FILE WITH A URL_**!
@@ -133,6 +134,9 @@ The `Bash-Bits Importer Module` is the ultimate package management utility. It n
 <h1 align="center"><a name="rec" href="#rec">Recommended Projects</a></h1>
 
 <table width="100%">
+<tr><td colspan="2">
+<h3><a name="github" href="https://github.com/ragdata/.github">Ragdata's Project Templates <em>(ragdata/.github)</em></a></h3>
+</td></tr>
 <tr>
 <td width="350" align="center">
 <a href="https://github.com/ragdata/.github"><img alt="Project Templates" width="300" src="https://raw.githubusercontent.com/Ragdata/Ragdata/master/.github/media/projects/ProjectTemplates-Social-300x150.png" /></a>
@@ -142,8 +146,6 @@ The `Bash-Bits Importer Module` is the ultimate package management utility. It n
 <a href="https://github.com/ragdata/.github" target="_blank"><img src="https://img.shields.io/github/last-commit/ragdata/.github?style=flat" alt="last commit"></a>
 </td>
 <td>
-<h3><a name="github" href="https://github.com/ragdata/.github">Ragdata's Project Templates <em>(ragdata/.github)</em></a></h3>
-
 #### _EVERYTHING A HEALTHY GITHUB PROJECT NEEDS!_
 
 My `Project Templates` repo includes a full set of Community Health Files (Security Policy, Code of Conduct, etc), Issue Templates, and a README Template!
