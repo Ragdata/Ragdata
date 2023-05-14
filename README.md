@@ -72,10 +72,10 @@ Right now I'm concentrating on **building a community** of like-minded super-ner
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=008CD7&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=70&lines=We+see+much+further%2C+and+reach+much+higher%2C;only+because+we+stand+upon+the+shoulders+of+giants" alt="Typing SVG" /></a>
 <h3>Feel free to fork this repo if you like what you see - in fact, you can<br /><br /><a href="https://github.com/Ragdata/Ragdata/generate" target="_blank">USE THIS REPO AS A TEMPLATE TO CREATE YOUR OWN</a></h3>
 
-![Metrics Build](https://img.shields.io/github/actions/workflow/status/Ragdata/Ragdata/metrics.yml?branch=master&label=Metrics%20Build&logo=github&style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/Ragdata/Ragdata?logo=github&style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/Ragdata/Ragdata/master?logo=github&style=for-the-badge)
-![MIT](https://img.shields.io/github/license/Ragdata/Ragdata?color=gold&logo=github&style=for-the-badge)
+[![Metrics Build](https://img.shields.io/github/actions/workflow/status/Ragdata/Ragdata/metrics.yml?branch=master&label=Metrics%20Build&logo=github&style=for-the-badge)](https://github.com/Ragdata/Ragdata/actions)
+[![Repo Size](https://img.shields.io/github/repo-size/Ragdata/Ragdata?logo=github&style=for-the-badge)](https://github.com/Ragdata/Ragdata)
+[![Last Commit](https://img.shields.io/github/last-commit/Ragdata/Ragdata/master?logo=github&style=for-the-badge)](https://github.com/Ragdata/Ragdata)
+[![MIT](https://img.shields.io/github/license/Ragdata/Ragdata?color=gold&logo=github&style=for-the-badge)](https://github.com/Ragdata/Ragdata/blob/master/LICENSE)
 
 </div>
 
