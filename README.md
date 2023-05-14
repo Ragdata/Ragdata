@@ -4,7 +4,9 @@
 
 ### ✨ [Background]()
 
-I am an internationally unrecognized, Australian, veteran full-stack engineer with more than 25 years on the keys.  When I first started working online in 1997 we were still trying to figure out what to do with it.  [Check out  my BragDoc for a few highlights](https://www.bragdocs.com/@ragdata)
+I am an internationally unrecognized, Australian, veteran full-stack engineer with more than 25 years on the keys.  When I first started working online in 1997 we were still trying to figure out what to do with it.  
+
+[//]: # ([Check out  my BragDoc for a few highlights]&#40;https://www.bragdocs.com/@ragdata&#41;)
 
 _**As you can see, I've been largely ignored all over the world for many years.**_  
 
@@ -15,8 +17,6 @@ Since leaving the corporate world in October 2020, I've been developing all the 
 Right now I'm concentrating on **building a community** of like-minded super-nerds (much like yourself) who are the first to get their hands on everything I produce, as well as getting access to live support, chat, forums, and a stack of other resources via the [**Discord Server**](https://discord.gg/54PkrM7TKq) that acts as the community hub - **PLEASE JOIN US!**
 
 <hr />
-
-### 💬 [Socials]()
 
 [//]: # (<a href="" target="_blank"><img alt="Follow Me @ Twitter" src="https://img.shields.io/twitter/follow/RagdataAU" /></a>)
 [//]: # (<a href="" target="_blank"><img alt="" src="https://img.shields.io/twitter/follow/RedeyedSoftware" /></a>)
@@ -30,12 +30,23 @@ Right now I'm concentrating on **building a community** of like-minded super-ner
 
 <hr />
 
-<a href="https://github.com/ragdata"><img src="./repositories.svg" alt="Repositories" width="49%" align="center" /></a>
-<a href="https://github.com/ragdata"><img src="./github-habits.svg" alt="Habits" width="49%" align="center" /></a>
-<a href="https://github.com/ragdata"><img src="./iso-calendar.svg" alt="Calendar" width="49%" align="center" /></a>
-<a href="https://github.com/ragdata"><img src="./languages.svg" alt="Languages" width="49%" align="center" /></a>
-<a href="https://github.com/ragdata"><img src="./wakatime.svg" alt="Wakatime" width="49%" align="center" /></a>
-<a href="https://github.com/ragdata"><img src="./achievements.svg" alt="Activity" width="49%" align="center" /></a>
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRagdata&label=VISITORS&countColor=%23d20000)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FRagdata)
+
+<table border="0">
+<tr><td rowspan="2"><img src="./repositories.svg" alt="Repositories" align="center" /></td><td><img src="./iso-calendar.svg" alt="Calendar" align="center" /></td></tr>
+<tr><td><img src="./languages.svg" alt="Languages" align="center" /></td></tr>
+</table>
+
+[//]: # (<a href="https://github.com/ragdata"><img src="./repositories.svg" alt="Repositories" width="49%" align="center" /></a>)
+
+[//]: # (<a href="https://github.com/ragdata"><img src="./iso-calendar.svg" alt="Calendar" width="49%" align="center" /></a>)
+
+[//]: # (<a href="https://github.com/ragdata"><img src="./languages.svg" alt="Languages" width="49%" align="center" /></a>)
+
+
+[//]: # (<a href="https://github.com/ragdata"><img src="./github-habits.svg" alt="Habits" width="49%" align="center" /></a>)
+[//]: # (<a href="https://github.com/ragdata"><img src="./wakatime.svg" alt="Wakatime" width="49%" align="center" /></a>)
+[//]: # (<a href="https://github.com/ragdata"><img src="./achievements.svg" alt="Activity" width="49%" align="center" /></a>)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg" />
