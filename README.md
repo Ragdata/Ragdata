@@ -108,13 +108,11 @@ If you like this repo, please give it a ⭐ (it really does help)
 
 <table width="100%">
 <tr>
-<td width="50%">
-
-<h3 align="center">
+<td width="50%" align="center">
 <a href="https://github.com/bash-bits/bb-import"><img alt="BB-Import" src="https://raw.githubusercontent.com/Ragdata/Ragdata/master/.github/media/projects/BashBits-Import-300x150.png" /></a>
-
-<a name="github" href="https://github.com/bash-bits/bb-import">BB-Import <em>(bash-bits/bb-import)</em></a>
-</h3>
+</td>
+<td width="50%">
+<h3><a name="github" href="https://github.com/bash-bits/bb-import">BB-Import <em>(bash-bits/bb-import)</em></a></h3>
 
 #### _THE MOST IMPORTANT AND MAGICAL PART OF BASH-BITS!_
 
@@ -122,13 +120,9 @@ If you like this repo, please give it a ⭐ (it really does help)
 - ✅ Download & cache ANY FILE to use in your scripts
 - ✅ Next version includes auto-updates!
 
-<div align="center">
 <a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/stars/bash-bits/bb-import?style=social" alt="stars" align="left"></a>
 <a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/forks/bash-bits/bb-import?style=social" alt="forks" align="left"></a>
 <a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/last-commit/bash-bits/bb-import?style=flat" alt="last commit"></a>
-</div>
-</td>
-<td width="50%">
 </td>
 </tr>
 </table>
