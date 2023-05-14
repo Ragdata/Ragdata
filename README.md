@@ -93,7 +93,7 @@ If you like this repo, please give it a ⭐ (it really does help)
 
 </h4>
 
-<h1 align="center"><a name="top" href="#top">Primary Projects</a></h1>
+<h1 align="center"><a name="top" href="#top">Featured Projects</a></h1>
 
 <h2 align="center">
 <a href="https://github.com/bash-bits" target="_blank">
@@ -130,22 +130,33 @@ The `Bash-Bits Importer Module` is the ultimate package management utility. It n
 </table>
 
 
-
-
-
 <h1 align="center"><a name="rec" href="#rec">Recommended Projects</a></h1>
 
+<table width="100%">
+<tr>
+<td width="350" align="center">
+<a href="https://github.com/ragdata/.github"><img alt="Project Templates" width="300" src="https://raw.githubusercontent.com/Ragdata/Ragdata/master/.github/media/projects/ProjectTemplates-Social-300x150.png" /></a>
+<br /><br />
+<a href="https://github.com/ragdata/.github" target="_blank"><img src="https://img.shields.io/github/stars/ragdata/.github?style=social" alt="stars" align="left"></a>
+<a href="https://github.com/ragdata/.github" target="_blank"><img src="https://img.shields.io/github/forks/ragdata/.github?style=social" alt="forks" align="left"></a>
+<a href="https://github.com/ragdata/.github" target="_blank"><img src="https://img.shields.io/github/last-commit/ragdata/.github?style=flat" alt="last commit"></a>
+</td>
+<td>
 <h3><a name="github" href="https://github.com/ragdata/.github">Ragdata's Project Templates <em>(ragdata/.github)</em></a></h3>
 
 #### _EVERYTHING A HEALTHY GITHUB PROJECT NEEDS!_
 
-- ✅ FULL set of Community Health Files (Security Policy, etc)
-- ✅ Attractive, comprehensive README template 
-- ✅ Configuration files for common GitHub Apps
+My `Project Templates` provide everything you need to build a healthy project.  Includes a full set of Community Health Files (Security Policy, Code of Conduct, etc), Issue Templates, and a README Template!
 
-<img src="https://img.shields.io/github/stars/ragdata/.github?style=social" alt="stars" align="left">
-<img src="https://img.shields.io/github/forks/ragdata/.github?style=social" alt="forks" align="left">
-<img src="https://img.shields.io/github/last-commit/ragdata/.github?style=flat" alt="last commit">
+- ✅ FULL set of Community Health Files (Security Policy, etc)
+- ✅ Attractive, comprehensive README template
+- ✅ Configuration files for common GitHub Apps
+</td>
+</tr>
+</table>
+
+
+
 
 <hr />
 
