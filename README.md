@@ -108,10 +108,10 @@ If you like this repo, please give it a ⭐ (it really does help)
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
-<a href="https://github.com/bash-bits/bb-import"><img alt="BB-Import" src="https://raw.githubusercontent.com/Ragdata/Ragdata/master/.github/media/projects/BashBits-Import-300x150.png" /></a>
+<td align="center">
+<a href="https://github.com/bash-bits/bb-import"><img alt="BB-Import" width="300" src="https://raw.githubusercontent.com/Ragdata/Ragdata/master/.github/media/projects/BashBits-Import-300x150.png" /></a>
 </td>
-<td width="50%">
+<td>
 <h3><a name="github" href="https://github.com/bash-bits/bb-import">BB-Import <em>(bash-bits/bb-import)</em></a></h3>
 
 #### _THE MOST IMPORTANT AND MAGICAL PART OF BASH-BITS!_
