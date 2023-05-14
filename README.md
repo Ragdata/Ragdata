@@ -146,7 +146,7 @@ The `Bash-Bits Importer Module` is the ultimate package management utility. It n
 
 #### _EVERYTHING A HEALTHY GITHUB PROJECT NEEDS!_
 
-My `Project Templates` provide everything you need to build a healthy project.  Includes a full set of Community Health Files (Security Policy, Code of Conduct, etc), Issue Templates, and a README Template!
+My `Project Templates` repo includes a full set of Community Health Files (Security Policy, Code of Conduct, etc), Issue Templates, and a README Template!
 
 - ✅ FULL set of Community Health Files (Security Policy, etc)
 - ✅ Attractive, comprehensive README template
