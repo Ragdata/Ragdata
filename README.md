@@ -1,18 +1,49 @@
 <h1 align="center">
-<img src="https://user-images.githubusercontent.com/6827931/226155940-f16a03c0-bcf8-48a1-8537-c8469efe273b.png" alt="Ragdata's RedEyed Software">
+<img src="https://raw.githubusercontent.com/ragdata/media/master/banner/Ragdata-RedEyed.png" alt="Ragdata's RedEyed Software">
 </h1>
 
 ### ✨ [Background]()
 
-**I am an internationally unrecognized, Australian, veteran full-stack engineer with more than 25 years on the keys.  When I first started working online in 1997 we were still trying to figure out what to do with it.  As you can see, I've been largely ignored all over the world for many years.**  
+**I am an internationally unrecognized, Australian, Veteran Software Engineer with more than 25 years on the keys.  When I first started working online in 1997 we were still trying to figure out what to do with it.  As you can see, I've been largely ignored all over the world for many years ...**  
 
 [//]: # ([Check out  my BragDoc for a few highlights]&#40;https://www.bragdocs.com/@ragdata&#41;)
 
-**These days, I'm developing 100% Open Source Software ... and I've started writing to try and pass on a little of what I've learned ...**
+**These days, I'm developing 100% Open Source Software ... and I've started writing to try and pass on a little of what I've learned.**
 
 ### 🔎 [Current Focus]()
 
 Right now I'm concentrating on **building a community** of like-minded super-nerds (much like yourself) who are the first to get their hands on everything I produce, as well as getting access to live support, chat, forums, and a stack of other resources via the [**Discord Server**](https://discord.gg/54PkrM7TKq) that acts as the community hub - **PLEASE JOIN US!**
+
+<hr />
+
+```python
+#!/usr/bin/python
+
+class Ragdata:
+
+	def __init__(self):
+		self.name = "Darren 'Ragdata' Poulton"
+		self.role = "Software Engineer"
+		self.age = "(old enough to know better)"
+
+	def data(self):
+		skills = {
+			'languages': [ 'Bash', C', 'C++', 'C#', 'Java', 'Javascript', 'Kotlin', 'Node.js', 'PHP', 'Python', 'SQL' ],
+			'frameworks': [ '.NET', 'Ktor', 'Laravel', 'Symfony', 'Node.js', 'Vue.js' ],
+			'tools': [ 'Android', Docker', 'JetBrains', 'Ubuntu', 'Windows 11', 'WSL2' ]
+		}
+
+	def contact(self):
+		email = "ragdata@ragdata.dev"
+		dev.to = "https://dev.to/ragdata"
+		twitter = "https://twitter.com/RagdataAU"
+		substack = "https://ragdata.substack.com/"	
+
+	def bio(self):
+		print("Australian Software Engineer with more than 25 years on the keys.")
+		print("Now concentrating on sharing what I can of what I learned with anyone who wants to listen")
+
+```
 
 <hr />
 
@@ -31,6 +62,10 @@ Right now I'm concentrating on **building a community** of like-minded super-ner
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fragdata" target="_blank"><img alt="Visitors" src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fragdata&countColor=%23d20000" /></a>
 <a href="https://github.com/ragdata" target="_blank"><img alt="Ragdata" src="https://img.shields.io/badge/-Made_With_☕_By_Ragdata-D20000?style=for-the-badge" /></a>
 
+#### Total Logged Project Hours since NOV 2022
+
+<a href="https://wakatime.com/@7e04d9d4-3a44-495e-b622-69fdbafd036c" target="_blank"><img alt="Ragdata" src="https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c.svg?style=for-the-badge" /></a>
+
 
 [//]: # (<a href="https://github.com/redeyed-software" target="_blank"><img alt="RedEyed Software" src="https://img.shields.io/badge/RedEyed-Software-555555?style=for-the-badge&labelColor=D20000&logo=data:image/png;base64,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" /></a>)
 
@@ -40,16 +75,22 @@ Right now I'm concentrating on **building a community** of like-minded super-ner
 
 <hr />
 
+### ⚡ [Recent Activity]()
+
+<!--START_SECTION:activity-->
+
+<hr />
+
 ### ❤️ [Supporters]()
 
 <h3><a href="https://jetbrains.com" target="_blank">Many Thanks to JetBrains for Their Invaluable Support</a></h3>
 
 <table>
 <tr>
-<td width="94"><a href="https://jetbrains.com" target="_blank"><img src="https://raw.githubusercontent.com/Ragdata/Ragdata/master/.github/media/brands/jetbrains.svg" alt="JetBrains" height="94" ></a></td>
+<td width="94"><a href="https://jetbrains.com" target="_blank"><img src="https://raw.githubusercontent.com/Ragdata/media/master/brand/jetbrains.svg" alt="JetBrains" height="94" ></a></td>
 <td>
 
-**JetBrains very generously provide me with a free license for their products every month, and you can get one too if you're working on a public, open-source project!**  I've used JetBrains' IDEs for many years now, and was more than happy to pay for a license every year back when I was working in the corporate sector.  **Absolutely my first choice in IDEs!**
+**JetBrains very generously provide me with a free license for their products every month, and you can get one too if you're working on a public, open-source project!**  I've used JetBrains' IDEs for many years now, and was more than happy to pay for a license every year back when I was working in the corporate sector.  **My first choice for IDEs!**
 
 </td>
 </tr>
@@ -61,7 +102,7 @@ Right now I'm concentrating on **building a community** of like-minded super-ner
 
 <h4>If sponsorship isn't right for you, but you have found my work to be useful in some way,<br />would you please consider buying me a coffee to help keep me going?</h4>
 
-<a href="https://www.buymeacoffee.com/ragdata" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://bmc.link/ragdata" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 </div>
 
@@ -77,6 +118,9 @@ Right now I'm concentrating on **building a community** of like-minded super-ner
 [![Last Commit](https://img.shields.io/github/last-commit/Ragdata/Ragdata/master?logo=github&style=for-the-badge)](https://github.com/Ragdata/Ragdata)
 [![MIT](https://img.shields.io/github/license/Ragdata/Ragdata?color=gold&logo=github&style=for-the-badge)](https://github.com/Ragdata/Ragdata/blob/master/LICENSE)
 
+#### Elapsed Project Time
+
+[![wakatime](https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c/project/92221145-144d-44b2-b1c4-746df2910bf3.svg?style=for-the-badge)](https://wakatime.com/badge/user/7e04d9d4-3a44-495e-b622-69fdbafd036c/project/92221145-144d-44b2-b1c4-746df2910bf3)
 </div>
 
 <h4 align="center">
@@ -90,7 +134,7 @@ If you like this repo, please give it a ⭐ (it really does help)
 <h1 align="center"><a name="top" href="#top">Featured Projects</a></h1>
 
 <h2 align="center">
-<a href="https://github.com/bash-bits" target="_blank"><img src="https://raw.githubusercontent.com/Ragdata/Ragdata/master/.github/media/projects/BashBits-Social-800x400.png" alt="Bash Bits Modular Library" /></a>
+<a href="https://github.com/bash-bits" target="_blank"><img src="https://raw.githubusercontent.com/Ragdata/media/master/project/bash-bits/Social-800x400.png" alt="Bash Bits Modular Library" /></a>
 
 <a href="https://github.com/bash-bits" target="_blank">Bash-Bits Modular Bash Library</a>
 </h2>
@@ -102,7 +146,7 @@ If you like this repo, please give it a ⭐ (it really does help)
 <table width="100%">
 <tr>
 <td width="350" align="center">
-<a href="https://github.com/bash-bits/bb-import"><img alt="BB-Import" width="300" src="https://raw.githubusercontent.com/Ragdata/Ragdata/master/.github/media/projects/BashBits-Import-300x150.png" /></a>
+<a href="https://github.com/bash-bits/bb-import"><img alt="BB-Import" width="300" src="https://raw.githubusercontent.com/Ragdata/media/master/project/bash-bits/Import-300x150.png" /></a>
 <br /><br />
 <a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/stars/bash-bits/bb-import?style=social" alt="stars" align="left"></a>
 <a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/forks/bash-bits/bb-import?style=social" alt="forks" align="left"></a>
@@ -130,7 +174,7 @@ The `Bash-Bits Importer Module` is the ultimate package management utility. It n
 <table width="100%">
 <tr>
 <td width="350" align="center">
-<a href="https://github.com/ragdata/.github"><img alt="Project Templates" width="300" src="https://raw.githubusercontent.com/Ragdata/Ragdata/master/.github/media/projects/ProjectTemplates-Social-300x150.png" /></a>
+<a href="https://github.com/ragdata/.github"><img alt="Project Templates" width="300" src="https://raw.githubusercontent.com/Ragdata/media/master/project/project-templates/Social-300x150.png" /></a>
 <br /><br />
 <a href="https://github.com/ragdata/.github" target="_blank"><img src="https://img.shields.io/github/stars/ragdata/.github?style=social" alt="stars" align="left"></a>
 <a href="https://github.com/ragdata/.github" target="_blank"><img src="https://img.shields.io/github/forks/ragdata/.github?style=social" alt="forks" align="left"></a>
