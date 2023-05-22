@@ -21,27 +21,27 @@ Right now I'm concentrating on **building a community** of like-minded super-ner
 
 class Ragdata:
 
-	def __init__(self):
-		self.name = "Darren 'Ragdata' Poulton"
-		self.role = "Software Engineer"
-		self.age = "(old enough to know better)"
+  def __init__(self):
+	self.name = "Darren 'Ragdata' Poulton"
+	self.role = "Software Engineer"
+	self.age = "(old enough to know better)"
 
-	def data(self):
-		skills = {
-			'languages': [ 'Bash', C', 'C++', 'C\#', 'Java', 'Javascript', 'Kotlin', 'Node.js', 'PHP', 'Python' ],
-			'frameworks': [ '.NET', 'Ktor', 'Laravel', 'Symfony', 'Node.js', 'Vue.js' ],
-			'tools': [ 'Android', Docker', 'JetBrains', 'Ubuntu', 'Windows 11', 'WSL2' ]
-		}
+  def data(self):
+	skills = {
+	  'languages': [ 'Bash', C', 'C++', 'C\#', 'Java', 'Javascript', 'Kotlin', 'Node.js', 'PHP', 'Python' ],
+	  'frameworks': [ '.NET', 'Ktor', 'Laravel', 'Symfony', 'Node.js', 'Vue.js' ],
+	  'tools': [ 'Android', Docker', 'JetBrains', 'Ubuntu', 'Windows 11', 'WSL2' ]
+	}
 
-	def contact(self):
-		email = "ragdata@ragdata.dev"
-		dev.to = "https://dev.to/ragdata"
-		twitter = "https://twitter.com/RagdataAU"
-		substack = "https://ragdata.substack.com/"	
+  def contact(self):
+	email = "ragdata@ragdata.dev"
+	dev.to = "https://dev.to/ragdata"
+	twitter = "https://twitter.com/RagdataAU"
+	substack = "https://ragdata.substack.com/"	
 
-	def bio(self):
-		print("Australian Software Engineer with more than 25 years on the keys.")
-		print("Now concentrating on sharing what I can of what I learned with anyone who wants to listen")
+  def bio(self):
+	print("Australian Software Engineer with more than 25 years on the keys.")
+	print("Now concentrating on sharing what I can of what I learned with anyone who wants to listen")
 
 ```
 
