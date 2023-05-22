@@ -125,7 +125,9 @@ If you like this repo, please give it a ⭐ (it really does help)
 
 </h4>
 
-<h1 align="center"><a name="top" href="#top">Featured Projects</a></h1>
+<br />
+
+<h1 align="center"><a name="top" href="#top">🔎 Featured Projects 🔍</a></h1>
 
 <div align="center">
 <a href="https://github.com/bash-bits" target="_blank"><img src="https://raw.githubusercontent.com/Ragdata/media/master/project/bash-bits/Banner-800x200.png" alt="Bash Bits Modular Library" /></a>
