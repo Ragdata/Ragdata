@@ -75,12 +75,6 @@ class Ragdata:
 
 <hr />
 
-### ⚡ [Recent Activity]()
-
-<!--START_SECTION:activity-->
-
-<hr />
-
 ### ❤️ [Supporters]()
 
 <h3><a href="https://jetbrains.com" target="_blank">Many Thanks to JetBrains for Their Invaluable Support</a></h3>
