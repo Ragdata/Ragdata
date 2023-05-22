@@ -28,9 +28,9 @@ class Ragdata:
 
   def data(self):
 	skills = {
-	  'languages': [ 'Bash', C', 'C++', 'C\#', 'Java', 'Javascript', 'Node.js', 'PHP', 'Python' ],
+	  'languages': [ 'Bash', 'C', 'C++', 'C\#', 'Java', 'Javascript', 'Node.js', 'PHP', 'Python' ],
 	  'frameworks': [ '.NET', 'Laravel', 'Symfony', 'Node.js', 'Vue.js' ],
-	  'tools': [ 'Android', Docker', 'JetBrains', 'Ubuntu', 'Windows 11', 'WSL2' ]
+	  'tools': [ 'Android', 'Docker', 'JetBrains', 'Ubuntu', 'Windows 11', 'WSL2' ]
 	}
 
   def contact(self):
