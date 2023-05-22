@@ -127,11 +127,9 @@ If you like this repo, please give it a ⭐ (it really does help)
 
 <h1 align="center"><a name="top" href="#top">Featured Projects</a></h1>
 
-<h2 align="center">
-<a href="https://github.com/bash-bits" target="_blank"><img src="https://raw.githubusercontent.com/Ragdata/media/master/project/bash-bits/Social-800x400.png" alt="Bash Bits Modular Library" /></a>
-
-<a href="https://github.com/bash-bits" target="_blank">Bash-Bits Modular Bash Library</a>
-</h2>
+<div align="center">
+<a href="https://github.com/bash-bits" target="_blank"><img src="https://raw.githubusercontent.com/Ragdata/media/master/project/bash-bits/Banner-800x200.png" alt="Bash Bits Modular Library" /></a>
+</div>
 
 `Bash-Bits` is a modular library for Bash 4+ which contains a bunch of code intended specifically for you to use in your own `Bash` scripting projects.  The library is designed with WSL2 (Ubuntu) users in mind, but you'll be able to make good use of it on most `Bash` systems.
 
@@ -140,7 +138,7 @@ If you like this repo, please give it a ⭐ (it really does help)
 <table width="100%">
 <tr>
 <td width="350" align="center">
-<a href="https://github.com/bash-bits/bb-import"><img alt="BB-Import" width="300" src="https://raw.githubusercontent.com/Ragdata/media/master/project/bash-bits/Import-300x150.png" /></a>
+<a href="https://github.com/bash-bits/bb-import"><img alt="BB-Import" width="300" src="https://raw.githubusercontent.com/Ragdata/media/master/project/bash-bits/Import-Social-300x150.png" /></a>
 <br /><br />
 <a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/stars/bash-bits/bb-import?style=social" alt="stars" align="left"></a>
 <a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/forks/bash-bits/bb-import?style=social" alt="forks" align="left"></a>
