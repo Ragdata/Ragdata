@@ -143,10 +143,9 @@ If you like this repo, please give it a ⭐ (it really does help)
 
 <a href="https://github.com/bash-bits/bb-import"><img alt="BB-Import" width="350" src="https://raw.githubusercontent.com/Ragdata/media/master/project/bash-bits/Import-Social-350x175.png" /></a>
 
-
-<a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/stars/bash-bits/bb-import?style=social" alt="stars" align="left"></a>
-<a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/forks/bash-bits/bb-import?style=social" alt="forks" align="left"></a>
-<a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/last-commit/bash-bits/bb-import?style=flat" alt="last commit" align="right"></a>
+[![Stars](https://img.shields.io/github/stars/bash-bits/bb-import?style=social)](https://github.com/bash-bits/bb-import)
+[![Forks](https://img.shields.io/github/forks/bash-bits/bb-import?style=social)](https://github.com/bash-bits/bb-import)
+[![Last Commit](https://img.shields.io/github/last-commit/bash-bits/bb-import?style=flat)](https://github.com/bash-bits/bb-import)
 
 </td>
 <td>
@@ -171,11 +170,13 @@ The `Bash-Bits Importer Module` is the ultimate package management utility. It n
 <table width="100%">
 <tr>
 <td width="350" align="center">
+
 <a href="https://github.com/ragdata/.github"><img alt="Project Templates" width="300" src="https://raw.githubusercontent.com/Ragdata/media/master/project/project-templates/Social-300x150.png" /></a>
-<br /><br />
-<a href="https://github.com/ragdata/.github" target="_blank"><img src="https://img.shields.io/github/stars/ragdata/.github?style=social" alt="stars" align="left"></a>
-<a href="https://github.com/ragdata/.github" target="_blank"><img src="https://img.shields.io/github/forks/ragdata/.github?style=social" alt="forks" align="left"></a>
-<a href="https://github.com/ragdata/.github" target="_blank"><img src="https://img.shields.io/github/last-commit/ragdata/.github?style=flat" alt="last commit" align="right"></a>
+
+[![Stars](https://img.shields.io/github/stars/ragdata/.github?style=social)](https://github.com/ragdata/.github)
+[![Forks](https://img.shields.io/github/forks/ragdata/.github?style=social)](https://github.com/ragdata/.github)
+[![Last Commit](https://img.shields.io/github/last-commit/ragdata/.github?style=flat)](https://github.com/ragdata/.github)
+
 </td>
 <td>
 
