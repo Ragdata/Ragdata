@@ -146,7 +146,7 @@ If you like this repo, please give it a ⭐ (it really does help)
 
 <a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/stars/bash-bits/bb-import?style=social" alt="stars" align="left"></a>
 <a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/forks/bash-bits/bb-import?style=social" alt="forks" align="left"></a>
-<a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/last-commit/bash-bits/bb-import?style=flat" alt="last commit"></a>
+<a href="https://github.com/bash-bits/bb-import" target="_blank"><img src="https://img.shields.io/github/last-commit/bash-bits/bb-import?style=flat" alt="last commit" align="right"></a>
 
 </td>
 <td>
@@ -175,7 +175,7 @@ The `Bash-Bits Importer Module` is the ultimate package management utility. It n
 <br /><br />
 <a href="https://github.com/ragdata/.github" target="_blank"><img src="https://img.shields.io/github/stars/ragdata/.github?style=social" alt="stars" align="left"></a>
 <a href="https://github.com/ragdata/.github" target="_blank"><img src="https://img.shields.io/github/forks/ragdata/.github?style=social" alt="forks" align="left"></a>
-<a href="https://github.com/ragdata/.github" target="_blank"><img src="https://img.shields.io/github/last-commit/ragdata/.github?style=flat" alt="last commit"></a>
+<a href="https://github.com/ragdata/.github" target="_blank"><img src="https://img.shields.io/github/last-commit/ragdata/.github?style=flat" alt="last commit" align="right"></a>
 </td>
 <td>
 
