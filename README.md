@@ -127,7 +127,7 @@ If you like this repo, please give it a ⭐ (it really does help)
 
 <br />
 
-<h1 align="center"><a name="top" href="#top">🔎 Featured Projects 🔍</a></h1>
+<h1 align="center"><a name="top" href="#top">💎 Featured Projects 💎</a></h1>
 
 <div align="center">
 <a href="https://github.com/bash-bits" target="_blank"><img src="https://raw.githubusercontent.com/Ragdata/media/master/project/bash-bits/Banner-800x200.png" alt="Bash Bits Modular Library" /></a>
@@ -171,7 +171,7 @@ The `Bash-Bits Importer Module` is the ultimate package management utility. It n
 <tr>
 <td width="350" align="center">
 
-<a href="https://github.com/ragdata/.github"><img alt="Project Templates" width="300" src="https://raw.githubusercontent.com/Ragdata/media/master/project/project-templates/Social-300x150.png" /></a>
+<a href="https://github.com/ragdata/.github"><img alt="Project Templates" width="350" src="https://raw.githubusercontent.com/Ragdata/media/master/project/project-templates/Social-300x150.png" /></a>
 
 [![Stars](https://img.shields.io/github/stars/ragdata/.github?style=social)](https://github.com/ragdata/.github)
 [![Forks](https://img.shields.io/github/forks/ragdata/.github?style=social)](https://github.com/ragdata/.github)
