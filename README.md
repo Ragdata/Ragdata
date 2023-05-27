@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/ragdata/media/master/banner/Ragdata-RedEyed.png" alt="Ragdata's RedEyed Software">
+<a name="top"><img src="https://raw.githubusercontent.com/ragdata/media/master/banner/Ragdata-RedEyed.png" alt="Ragdata's RedEyed Software"></a>
 </h1>
 
 <div align="center">
@@ -135,9 +135,9 @@ If you like this repo, please give it a ⭐ (it really does help)
 
 </h4>
 
-<br />
+<hr />
 
-<h1 align="center"><a name="top" href="#top">💎 Featured Projects 💎</a></h1>
+<h1 align="center"><a href="#top">💎 Featured Projects 💎</a></h1>
 
 <div align="center">
 <a href="https://github.com/bash-bits" target="_blank"><img src="https://raw.githubusercontent.com/Ragdata/media/master/project/bash-bits/Banner-800x200.png" alt="Bash Bits Modular Library" /></a>
@@ -173,7 +173,7 @@ The `Bash-Bits Importer Module` is the ultimate package management utility. It n
 </table>
 
 
-<h1 align="center"><a name="rec" href="#rec">Recommended Projects</a></h1>
+<h1 align="center"><a name="rec" href="#top">🔥 Recommended Projects 🔥</a></h1>
 
 <h3><a name="github" href="https://github.com/ragdata/.github">Ragdata's Project Templates <em>(ragdata/.github)</em></a></h3>
 
@@ -199,6 +199,23 @@ My `Project Templates Repo` includes a full set of Community Health Files (Secur
 - ✅ Configuration files for common GitHub Apps
 
 </td>
+</tr>
+</table>
+
+<h1 align="center"><a name="org" href="#top">🔱 Organisations 🔱</a></h1>
+
+<table width="100%">
+<tr>
+<td width="70" align="center"><a href="https://github.com/ragdata"><img alt="Ragdata" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/logo/Ragdata-64.svg" /></a></td>
+<td><a href="https://github.com/ragdata">Ragdata's Profile</a> - The page you're looking at right now</td>
+</tr>
+<tr>
+<td width="70" align="center"><a href="https://github.com/bash-bits"><img alt="Bash-Bits" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/bash-bits/logo/BB-Logo-64-Full.svg" /></a></td>
+<td><a href="https://github.com/bash-bits">Bash-Bits Project Profile</a> - The Modular Bash Library by RedEyed Software</td>
+</tr>
+<tr>
+<td width="70" align="center"><a href="https://github.com/ragsworks"><img alt="RagsWorks" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/ragsworks/logo/ragsworks.svg" /></a></td>
+<td><a href="https://github.com/ragsworks">RagsWorks Project Profile</a> - Reusable Actions &amp; Workflows by Ragdata</td>
 </tr>
 </table>
 
