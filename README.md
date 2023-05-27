@@ -2,6 +2,16 @@
 <img src="https://raw.githubusercontent.com/ragdata/media/master/banner/Ragdata-RedEyed.png" alt="Ragdata's RedEyed Software">
 </h1>
 
+<div align="center">
+
+<a href="https://github.com/ragdata"><img alt="Ragdata" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/logo/Ragdata-64.svg" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/bash-bits"><img alt="Bash-Bits" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/bash-bits/logo/BB-Logo-64-Full.svg" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ragsworks"><img alt="RagsWorks" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/ragsworks/logo/ragsworks.svg" /></a>
+
+</div>
+
 ### ✨ [Background]()
 
 **I am an internationally unrecognized, Australian, Veteran Software Engineer with more than 25 years on the keys.  When I first started working online in 1997 we were still trying to figure out what to do with it.  As you can see, I've been largely ignored all over the world for many years ...**  
