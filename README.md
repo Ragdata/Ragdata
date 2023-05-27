@@ -208,22 +208,22 @@ My `Project Templates Repo` includes a full set of Community Health Files (Secur
 <tr>
 <td width="70" align="center"><a href="https://github.com/ragdata"><img alt="Ragdata" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/logo/Ragdata-64.svg" /></a></td>
 <td>
-<a href="https://github.com/ragdata">**Ragdata's Profile**</a><br />
+<a href="https://github.com/ragdata"><strong>Ragdata's Profile</strong></a><br />
 This is where you'll find all of the projects that only require a single repository each.  Anything larger gets split out into its own organisation such as those below:
 </td>
 </tr>
 <tr>
 <td width="70" align="center"><a href="https://github.com/bash-bits"><img alt="Bash-Bits" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/bash-bits/logo/BB-Logo-64-Full.svg" /></a></td>
 <td>
-<a href="https://github.com/bash-bits">**Bash-Bits Project Profile**</a><br />
-The Modular Bash Library by RedEyed Software - contains lots of very useful bits and pieces that you can use to build your own Bash projects. (Start with <a href="https://github.com/bash-bits/bb-import">**BB-Import**</a>)
+<a href="https://github.com/bash-bits"><strong>Bash-Bits Project Profile</strong></a><br />
+The Modular Bash Library by RedEyed Software - start with <a href="https://github.com/bash-bits/bb-import">BB-Import</a> and import only what you need, from anywhere!
 </td>
 </tr>
 <tr>
 <td width="70" align="center"><a href="https://github.com/ragsworks"><img alt="RagsWorks" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/ragsworks/logo/ragsworks.svg" /></a></td>
 <td>
-<a href="https://github.com/ragsworks">**RagsWorks Project Profile**</a><br />
-Reusable Actions &amp; Workflows by Ragdata - Contains workflows and actions for all kinds of processes as well as a whole repository full of <a href="https://github.com/ragsworks/devcontainers">DevContainers</a> with various environments you can spin up.
+<a href="https://github.com/ragsworks"><strong>RagsWorks Project Profile</strong></a><br />
+Reusable Actions &amp; Workflows by Ragdata - also includes a repository full of <a href="https://github.com/ragsworks/devcontainers">DevContainers</a> with various environments you can spin up.
 </td>
 </tr>
 </table>
