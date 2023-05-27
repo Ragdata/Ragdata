@@ -207,7 +207,7 @@ My `Project Templates Repo` includes a full set of Community Health Files (Secur
 <table width="100%">
 <tr>
 <td width="70" align="center"><a href="https://github.com/ragdata"><img alt="Ragdata" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/logo/Ragdata-64.svg" /></a></td>
-<td><a href="https://github.com/ragdata">Ragdata's Profile</a> - The page you're looking at right now</td>
+<td width="100%"><a href="https://github.com/ragdata">Ragdata's Profile</a> - The page you're looking at right now</td>
 </tr>
 <tr>
 <td width="70" align="center"><a href="https://github.com/bash-bits"><img alt="Bash-Bits" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/bash-bits/logo/BB-Logo-64-Full.svg" /></a></td>
