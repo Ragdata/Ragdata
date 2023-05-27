@@ -209,7 +209,7 @@ My `Project Templates Repo` includes a full set of Community Health Files (Secur
 <td width="70" align="center"><a href="https://github.com/ragdata"><img alt="Ragdata" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/logo/Ragdata-64.svg" /></a></td>
 <td>
 <a href="https://github.com/ragdata"><strong>Ragdata's Profile</strong></a><br />
-Projects requiring only a single repository each - anything larger gets split out into its own organisation, such as those below:
+Projects requiring only a single repo each - anything larger gets split out into its own organisation, such as those below:
 </td>
 </tr>
 <tr>
@@ -223,7 +223,7 @@ The Modular Bash Library by RedEyed Software - start with <a href="https://githu
 <td width="70" align="center"><a href="https://github.com/ragsworks"><img alt="RagsWorks" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/ragsworks/logo/ragsworks.svg" /></a></td>
 <td>
 <a href="https://github.com/ragsworks"><strong>RagsWorks Project Profile</strong></a><br />
-Reusable Actions &amp; Workflows by Ragdata - also includes a repository full of <a href="https://github.com/ragsworks/devcontainers">DevContainers</a> with various environments you can spin up.
+Reusable Actions &amp; Workflows by Ragdata - also includes a repository full of <a href="https://github.com/ragsworks/devcontainers">DevContainers</a> with various environments.
 </td>
 </tr>
 </table>
