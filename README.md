@@ -209,7 +209,7 @@ My `Project Templates Repo` includes a full set of Community Health Files (Secur
 <td width="70" align="center"><a href="https://github.com/ragdata"><img alt="Ragdata" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/logo/Ragdata-64.svg" /></a></td>
 <td>
 <a href="https://github.com/ragdata"><strong>Ragdata's Profile</strong></a><br />
-This is where you'll find all of the projects that only require a single repository each.  Anything larger gets split out into its own organisation such as those below:
+Projects requiring only a single repository each - anything larger gets split out into its own organisation, such as those below:
 </td>
 </tr>
 <tr>
