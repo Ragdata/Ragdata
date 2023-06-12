@@ -162,7 +162,7 @@ If you like this repo, please give it a ⭐ (it really does help)
 
 **_THE MOST IMPORTANT AND MAGICAL PART OF BASH-BITS!_**
 
-The `Bash-Bits Importer Module` is the ultimate package management utility. It not only manages `Bash-Bits` modules - it will manage **_ANY FILE WITH A URL_**!
+The `Bash-Bits Dependency Manager` is the ultimate package management utility. It not only manages `Bash-Bits` modules - it will manage **_ANY FILE WITH A URL_**!
 
 - ✅ Quick & easy, automagical install
 - ✅ Download & cache ANY FILE to use in your scripts
