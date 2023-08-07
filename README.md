@@ -16,7 +16,7 @@
 
 ### ✨ [Background]()
 
-**I am an internationally unrecognized, Australian, Veteran Software Engineer with more than 25 years on the keys.  When I first started working online in 1997 we were still trying to figure out what to do with it.  As you can see, I've been largely ignored all over the world for many years ...**  
+**I am an Australian, Veteran Software Engineer with more than 25 years on the keys (and it's starting to show).  When I first started working online in 1997 we were still trying to figure out what to do with it, and we had NO IDEA of just how much the Internet was going to change our world ...**  
 
 [//]: # ([Check out  my BragDoc for a few highlights]&#40;https://www.bragdocs.com/@ragdata&#41;)
 
@@ -24,7 +24,7 @@
 
 ### 🔎 [Current Focus]()
 
-Right now I'm concentrating on **building a community** of like-minded super-nerds (much like yourself) who are the first to get their hands on everything I produce, as well as getting access to live support, chat, forums, and a stack of other resources via the [**Discord Server**](https://discord.gg/54PkrM7TKq) that acts as the community hub - **PLEASE JOIN US!**
+Right now I'm focused on building my own IT Consultancy Practice which specializes in the commercial application of cloud, container, and open-source technologies.  Alongside this, I'm hoping to build a community of like-minded geeks who are interested in learning some of the stuff I managed to pick up over the past 25 years.  If this sounds like you, please [**JOIN US**](https://discord.gg/s6gZZUc67y)!! 
 
 <hr />
 
@@ -63,13 +63,13 @@ class Ragdata:
 
 <h3><a href="https://discord.gg/54PkrM7TKq" target="_blank">Join Me & The RedEyed Community</a></h3>
 
-<a href="https://twitter.com/intent/follow?screen_name=RagdataAU" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-<a href="https://www.reddit.com/r/RedeyedSoftware/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white" /></a>
-<a href="https://dev.to/ragdata" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-373737?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-<a href="https://discord.gg/54PkrM7TKq" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" /></a>
+<a href="https://www.facebook.com/RedeyedAU/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a href="https://redeyedau.substack.com/" target="_blank"><img alt="SubStack" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=Substack&logoColor=white" /></a>
+<a href="https://dev.to/redeyed-au" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-373737?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+<a href="https://discord.gg/s6gZZUc67y" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" /></a>
 <a href="https://github.com/ragdata" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-373737?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
-<a href="https://ragdata.substack.com/" target="_blank"><img alt="SubStack" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=Substack&logoColor=white" /></a>
-<a href="https://www.facebook.com/RedEyedSoftware/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+<a href="https://www.reddit.com/r/RedeyedAU/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white" /></a>
+<a href="https://twitter.com/intent/follow?screen_name=RedeyedAU" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 <br />
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fragdata" target="_blank"><img alt="Visitors" src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fragdata&countColor=%23d20000" /></a>
 <a href="https://github.com/ragdata" target="_blank"><img alt="Ragdata" src="https://img.shields.io/badge/-Made_With_☕_By_Ragdata-D20000?style=for-the-badge" /></a>
@@ -120,7 +120,6 @@ class Ragdata:
 <h3>Feel free to fork this repo if you like what you see - in fact, you can<br /><br /><a href="https://github.com/Ragdata/Ragdata/generate" target="_blank">USE THIS REPO AS A TEMPLATE TO CREATE YOUR OWN</a></h3>
 
 [![Metrics Build](https://img.shields.io/github/actions/workflow/status/Ragdata/Ragdata/metrics.yml?branch=master&label=Metrics%20Build&logo=github&style=for-the-badge)](https://github.com/Ragdata/Ragdata/actions)
-[![Repo Size](https://img.shields.io/github/repo-size/Ragdata/Ragdata?logo=github&style=for-the-badge)](https://github.com/Ragdata/Ragdata)
 [![Last Commit](https://img.shields.io/github/last-commit/Ragdata/Ragdata/master?logo=github&style=for-the-badge)](https://github.com/Ragdata/Ragdata)
 [![MIT](https://img.shields.io/github/license/Ragdata/Ragdata?color=gold&logo=github&style=for-the-badge)](https://github.com/Ragdata/Ragdata/blob/master/LICENSE)
 
@@ -139,7 +138,7 @@ If you like this repo, please give it a ⭐ (it really does help)
 
 <hr />
 
-<h1 align="center"><a href="#top">💎 Featured Projects 💎</a></h1>
+<h1 align="center">💎 <a href="#top">Featured Projects</a> 💎</h1>
 
 <div align="center">
 <a href="https://github.com/bash-bits" target="_blank"><img src="https://raw.githubusercontent.com/Ragdata/media/master/project/bash-bits/Banner-800x200.png" alt="Bash Bits Modular Library" /></a>
@@ -153,7 +152,7 @@ If you like this repo, please give it a ⭐ (it really does help)
 <tr>
 <td width="350" align="center">
 
-<a href="https://github.com/bash-bits/bb-import"><img alt="BB-Import" width="350" src="https://raw.githubusercontent.com/Ragdata/media/master/project/bash-bits/Import-Social-350x175.png" /></a>
+<a href="https://github.com/bash-bits/bb-import"><img alt="BB-Import" width="350" src="https://raw.githubusercontent.com/Ragdata/media/master/project/bash-bits/Import-Social-300x150.png" /></a>
 
 [![Stars](https://img.shields.io/github/stars/bash-bits/bb-import?style=social)](https://github.com/bash-bits/bb-import)
 [![Forks](https://img.shields.io/github/forks/bash-bits/bb-import?style=social)](https://github.com/bash-bits/bb-import)
@@ -175,19 +174,19 @@ The `Bash-Bits Dependency Manager` is the ultimate package management utility. I
 </table>
 
 
-<h1 align="center"><a name="rec" href="#top">🔥 Recommended Projects 🔥</a></h1>
+<h1 align="center">🔥 <a name="rec" href="#top">Recommended Projects</a> 🔥</h1>
 
-<h3><a name="github" href="https://github.com/ragdata/.github">Ragdata's Project Templates <em>(ragdata/.github)</em></a></h3>
+<h3><a name="github" href="https://github.com/redeyed-au/.github">RedEyed Org & Repo Templates <em>(redeyed-au/.github)</em></a></h3>
 
 <table width="100%">
 <tr>
 <td width="350" align="center">
 
-<a href="https://github.com/ragdata/.github"><img alt="Project Templates" width="350" src="https://raw.githubusercontent.com/Ragdata/media/master/project/project-templates/Social-300x150.png" /></a>
+<a href="https://github.com/redeyed-au/.github"><img alt="Project Templates" width="350" src="https://raw.githubusercontent.com/Ragdata/media/master/project/project-templates/Social-300x150.png" /></a>
 
-[![Stars](https://img.shields.io/github/stars/ragdata/.github?style=social)](https://github.com/ragdata/.github)
-[![Forks](https://img.shields.io/github/forks/ragdata/.github?style=social)](https://github.com/ragdata/.github)
-[![Last Commit](https://img.shields.io/github/last-commit/ragdata/.github?style=flat)](https://github.com/ragdata/.github)
+[![Stars](https://img.shields.io/github/stars/redeyed-au/.github?style=social)](https://github.com/redeyed-au/.github)
+[![Forks](https://img.shields.io/github/forks/redeyed-au/.github?style=social)](https://github.com/redeyed-au/.github)
+[![Last Commit](https://img.shields.io/github/last-commit/redeyed-au/.github?style=flat)](https://github.com/redeyed-au/.github)
 
 </td>
 <td>
@@ -204,7 +203,7 @@ My `Project Templates Repo` includes a full set of Community Health Files (Secur
 </tr>
 </table>
 
-<h1 align="center"><a name="org" href="#top">🔱 Organisations 🔱</a></h1>
+<h1 align="center"><a name="org" href="#top">🔱 Affiliated Organisations 🔱</a></h1>
 
 <table width="100%">
 <tr>
@@ -217,7 +216,7 @@ Projects requiring only a single repo each - anything larger gets split out into
 <tr>
 <td width="70" align="center"><a href="https://github.com/redeyed-au"><img alt="RedEyed Technologies" height="64" src="https://raw.githubusercontent.com/Ragdata/media/master/project/redeyed-au/logo/Shield.svg" /></a></td>
 <td>
-<a href="https://github.com/ragdata"><strong>RedEyed Technologies</strong></a><br />
+<a href="https://github.com/redeyed-au"><strong>RedEyed Technologies</strong></a><br />
 RedEyed Technologies is an IT Consultancy firm which specializes in cloud, container, and open-source technologies.
 </td>
 </tr>
