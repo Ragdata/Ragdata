@@ -176,7 +176,7 @@ The `Bash-Bits Dependency Manager` is the ultimate package management utility. I
 
 <h1 align="center">🔥 <a name="rec" href="#top">Recommended Projects</a> 🔥</h1>
 
-<h3><a name="github" href="https://github.com/redeyed-au/.github">RedEyed Org & Repo Templates <em>(redeyed-au/.github)</em></a></h3>
+<h3><a name="github" href="https://github.com/redeyed-au/.github">RedEyed Organization & Repository Templates <em>(redeyed-au/.github)</em></a></h3>
 
 <table width="100%">
 <tr>
@@ -216,7 +216,7 @@ Projects requiring only a single repo each - anything larger gets split out into
 <tr>
 <td width="70" align="center"><a href="https://github.com/redeyed-au"><img alt="RedEyed Technologies" height="64" src="https://raw.githubusercontent.com/Ragdata/media/master/project/redeyed-au/logo/Shield.svg" /></a></td>
 <td>
-<a href="https://github.com/redeyed-au"><strong>RedEyed Technologies</strong></a><br />
+<a href="https://github.com/ragdata"><strong>RedEyed Technologies</strong></a><br />
 RedEyed Technologies is an IT Consultancy firm which specializes in cloud, container, and open-source technologies.
 </td>
 </tr>
@@ -228,7 +228,7 @@ Reusable Actions &amp; Workflows by Ragdata - also includes a repository full of
 </td>
 </tr>
 <tr>
-<td width="70" align="center"><a href="https://github.com/bash-bits"><img alt="Bash-Bits" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/bash-bits/logo/BB-Logo-64-Full.svg" /></a></td>
+<td width="70" align="center"><a href="https://github.com/bash-bits"><img alt="Bash-Bits" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/bash-bits/logo/BB-Logo-Full.svg" /></a></td>
 <td>
 <a href="https://github.com/bash-bits"><strong>Bash-Bits Project</strong></a><br />
 The Modular Bash Library by RedEyed Software - start with <a href="https://github.com/bash-bits/bb-import">BB-Import</a> and import only what you need, from anywhere!
