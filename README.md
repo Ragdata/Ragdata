@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ragsworks"><img alt="RagsWorks" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/ragsworks/logo/ragsworks.svg" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/bash-bits"><img alt="Bash-Bits" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/bash-bits/logo/BB-Logo-64-Full.svg" /></a>
+<a href="https://github.com/bash-bits"><img alt="Bash-Bits" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/bash-bits/logo/BB-Logo-Full.svg" /></a>
 
 </div>
 
