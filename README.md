@@ -10,6 +10,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ragsworks"><img alt="RagsWorks" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/ragsworks/logo/ragsworks.svg" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/labhackers"><img alt="The LabHacker's Cookbook" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/labhackers/logo/LabHackers.svg" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/bash-bits"><img alt="Bash-Bits" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/bash-bits/logo/BB-Logo-Full.svg" /></a>
 
 </div>
@@ -225,6 +227,13 @@ RedEyed Technologies is an IT Consultancy firm which specializes in cloud, conta
 <td>
 <a href="https://github.com/ragsworks"><strong>RagsWorks Project</strong></a><br />
 Reusable Actions &amp; Workflows by Ragdata - also includes a repository full of <a href="https://github.com/ragsworks/devcontainers">DevContainers</a> with various environments.
+</td>
+</tr>
+<tr>
+<td width="70" align="center"><a href="https://github.com/labhackers"><img alt="The LabHacker's Cookbook" height="64" src="https://raw.githubusercontent.com/ragdata/media/master/project/labhackers/logo/LabHackers.svg" /></a></td>
+<td>
+<a href="https://github.com/labhackers"><strong>The LabHacker's Cookbook</strong></a><br />
+The Cookbook is a collection of docker-compose recipes designed to help Homelab Hackers of all kinds build the self-hosted utopia of their dreams!   
 </td>
 </tr>
 <tr>
