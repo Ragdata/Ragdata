@@ -49,18 +49,18 @@ class Ragdata:
 
 <div align="center">
 
-<h3><a href="https://discord.gg/54PkrM7TKq" target="_blank">Join Me & The RedEyed Community</a></h3>
-
-<a href="https://www.facebook.com/RedeyedAU/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-<a href="https://redeyedau.substack.com/" target="_blank"><img alt="SubStack" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=Substack&logoColor=white" /></a>
-<a href="https://dev.to/redeyed-au" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-373737?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-<a href="https://discord.gg/s6gZZUc67y" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" /></a>
-<a href="https://github.com/ragdata" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-373737?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
-<a href="https://www.reddit.com/r/RedeyedAU/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white" /></a>
-<a href="https://twitter.com/intent/follow?screen_name=RedeyedAU" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-<br />
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fragdata" target="_blank"><img alt="Visitors" src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fragdata&countColor=%23d20000" /></a>
-<a href="https://github.com/ragdata" target="_blank"><img alt="Ragdata" src="https://img.shields.io/badge/-Made_With_☕_By_Ragdata-D20000?style=for-the-badge" /></a>
+[//]: # (<h3><a href="https://discord.gg/54PkrM7TKq" target="_blank">Join Me & The RedEyed Community</a></h3>)
+[//]: # ()
+[//]: # (<a href="https://www.facebook.com/RedeyedAU/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a>)
+[//]: # (<a href="https://redeyedau.substack.com/" target="_blank"><img alt="SubStack" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=Substack&logoColor=white" /></a>)
+[//]: # (<a href="https://dev.to/redeyed-au" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-373737?style=for-the-badge&logo=dev.to&logoColor=white" /></a>)
+[//]: # (<a href="https://discord.gg/s6gZZUc67y" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" /></a>)
+[//]: # (<a href="https://github.com/ragdata" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-373737?style=for-the-badge&logo=GitHub&logoColor=white" /></a>)
+[//]: # (<a href="https://www.reddit.com/r/RedeyedAU/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white" /></a>)
+[//]: # (<a href="https://twitter.com/intent/follow?screen_name=RedeyedAU" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" /></a>)
+[//]: # (<br />)
+[//]: # (<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fragdata" target="_blank"><img alt="Visitors" src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fragdata&countColor=%23d20000" /></a>)
+[//]: # (<a href="https://github.com/ragdata" target="_blank"><img alt="Ragdata" src="https://img.shields.io/badge/-Made_With_☕_By_Ragdata-D20000?style=for-the-badge" /></a>)
 
 #### Total Logged Project Hours since NOV 2022
 
@@ -74,19 +74,6 @@ class Ragdata:
 </div>
 
 <hr />
-
-<h3><a href="https://jetbrains.com" target="_blank">Many Thanks to JetBrains for Their Invaluable Support</a></h3>
-
-<table>
-<tr>
-<td width="94"><a href="https://jetbrains.com" target="_blank"><img src="https://raw.githubusercontent.com/Ragdata/media/master/brand/jetbrains.svg" alt="JetBrains" height="94" ></a></td>
-<td>
-
-**JetBrains very generously provide me with a free license for their products every month, and you can get one too if you're working on a public, open-source project!**  I've used JetBrains' IDEs for many years now, and was more than happy to pay for a license every year back when I was working in the corporate sector.  **My first choice for IDEs!**
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
