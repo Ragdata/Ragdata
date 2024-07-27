@@ -12,7 +12,9 @@
 
 ### 🔎 [Current Focus]()
 
-Right now I'm focused on building my own IT Consultancy Practice which specializes in the commercial application of cloud, container, and open-source technologies.  Alongside this, I'm hoping to build a community of like-minded geeks who are interested in learning some of the stuff I managed to pick up over the past 25 years.  If this sounds like you, please [**JOIN US**](https://discord.gg/s6gZZUc67y)!! 
+Right now I'm focused on building my own IT Consultancy Practice which specializes in the commercial application of cloud, container, and open-source technologies.  Alongside this, I'm hoping to build a community of like-minded geeks who are interested in learning some of the stuff I managed to pick up over the past 25 years.  
+
+[//]: # (If this sounds like you, please [**JOIN US**]&#40;https://discord.gg/s6gZZUc67y&#41;!! )
 
 <hr />
 
