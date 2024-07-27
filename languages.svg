@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="359.0778318531542" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="359.0778318531542" y="0" width="99.61571839921076" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.69355025236496" y="0" width="0.5629688902206619" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="459.2565191425856" y="0" width="0.5612362833546003" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.8177554259402" y="0" width="0.18224457405980618" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.976474576848" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="358.976474576848" y="0" width="99.58759976587123" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.5640743427192" y="0" width="0.6807864484235426" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.24486079114274" y="0" width="0.5628099804014078" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="459.80767077154417" y="0" width="0.19232922845587835" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,19 +38,19 @@
                             </div>
                             <small>
                                 <div>5.60 MB</div>
-                                <div>78.06%</div>
+                                <div>78.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Hack
+                                Shell
                             </div>
                             <small>
-                                <div>8.77 kB</div>
-                                <div>0.12%</div>
+                                <div>10.6 kB</div>
+                                <div>0.15%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -61,7 +61,7 @@
                                 Dockerfile
                             </div>
                             <small>
-                                <div>2.84 kB</div>
+                                <div>3 kB</div>
                                 <div>0.04%</div>
                             </small>
                         </div>
@@ -76,18 +76,18 @@
                             </div>
                             <small>
                                 <div>1.55 MB</div>
-                                <div>21.66%</div>
+                                <div>21.65%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Shell
+                                Hack
                             </div>
                             <small>
-                                <div>8.75 kB</div>
+                                <div>8.77 kB</div>
                                 <div>0.12%</div>
                             </small>
                         </div>
