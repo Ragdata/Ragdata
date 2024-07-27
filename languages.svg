@@ -21,11 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.93417584474025" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="358.93417584474025" y="0" width="99.57586521081795" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.5100410555582" y="0" width="0.7286866544196291" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.2387277099778" y="0" width="0.5627436636640322" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="459.80147137364185" y="0" width="0.19852862635816476" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.9152572718415" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="358.9152572718415" y="0" width="99.57061680207974" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.48587407392125" y="0" width="0.7484038509483749" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.2342779248696" y="0" width="0.5627140027742623" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="459.79699192764383" y="0" width="0.20300807235615415" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -49,7 +49,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>11.3 kB</div>
+                                <div>11.6 kB</div>
                                 <div>0.16%</div>
                             </small>
                         </div>
@@ -61,7 +61,7 @@
                                 Dockerfile
                             </div>
                             <small>
-                                <div>3.10 kB</div>
+                                <div>3.17 kB</div>
                                 <div>0.04%</div>
                             </small>
                         </div>
