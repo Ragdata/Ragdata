@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.82419508838143" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="343.82419508838143" y="0" width="95.38403977766652" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="439.208234866048" y="0" width="19.860632837198917" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.0688677032469" y="0" width="0.539053955352711" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="459.6079216585996" y="0" width="0.21689963095806108" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.82482128955763" y="0" width="0.17517871044233205" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.41533956166006" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="343.41533956166006" y="0" width="95.2706146831525" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="438.6859542448126" y="0" width="19.87868704826008" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.56464129307267" y="0" width="0.7219753646439614" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.28661665771665" y="0" width="0.5384129440684694" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="459.8250296017851" y="0" width="0.17497039821488727" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -39,7 +39,7 @@
                             </div>
                             <small>
                                 <div>5.60 MB</div>
-                                <div>74.74%</div>
+                                <div>74.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -57,13 +57,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                Hack
                             </div>
                             <small>
-                                <div>3.53 kB</div>
-                                <div>0.05%</div>
+                                <div>8.77 kB</div>
+                                <div>0.12%</div>
                             </small>
                         </div>
                     </section>
@@ -77,19 +77,19 @@
                             </div>
                             <small>
                                 <div>1.55 MB</div>
-                                <div>20.74%</div>
+                                <div>20.71%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Hack
+                                Python
                             </div>
                             <small>
-                                <div>8.77 kB</div>
-                                <div>0.12%</div>
+                                <div>11.7 kB</div>
+                                <div>0.16%</div>
                             </small>
                         </div>
                         <div class="field language details">
