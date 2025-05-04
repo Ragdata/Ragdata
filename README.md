@@ -4,7 +4,7 @@
 
 ### ✨ [Background]()
 
-**I am an Australian, Veteran Software Engineer with more than 25 years on the keys (and it's starting to show).  When I first started working online in 1997 we were still trying to figure out what to do with it, and we had NO IDEA of just how much the Internet was going to change our world ...**  
+**I am an Australian, Veteran Software Engineer with more than 25 years on the keys (and it's starting to show).  When I first started working online (pre facebook and google), we were still trying to figure out what to do with it, and we had NO IDEA of just how much the Internet was going to change our world ...**  
 
 [//]: # ([Check out  my BragDoc for a few highlights]&#40;https://www.bragdocs.com/@ragdata&#41;)
 
@@ -34,12 +34,6 @@ class Ragdata:
 	  'frameworks': [ '.NET', 'Laravel', 'Symfony', 'Node.js', 'Vue.js' ],
 	  'tools': [ 'Android', 'Docker', 'JetBrains', 'Ubuntu', 'Windows 11', 'WSL2' ]
 	}
-
-  def contact(self):
-	email = "ragdata@ragdata.dev"
-	dev.to = "https://dev.to/ragdata"
-	twitter = "https://twitter.com/RagdataAU"
-	substack = "https://ragdata.substack.com/"	
 
   def bio(self):
 	print("Australian Software Engineer with more than 25 years on the keys.")
