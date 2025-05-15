@@ -112,3 +112,5 @@ class Ragdata:
 </table>
 
 <small>Infographics by <a href="https://github.com/lowlighter/metrics" target="_blank">Lowlighter</a></small>
+
+![](https://hit.yhype.me/github/profile?account_id=6827931)
